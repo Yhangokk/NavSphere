@@ -148,6 +148,14 @@
           "href": "https://pagespeed.web.dev/",
           "description": "",
           "icon": "/assets/favicon_1765687105275.webp"
+        },
+        {
+          "id": "site_1768016130469_2yt22bp5z",
+          "title": "Yhang的 博客",
+          "href": "https://yhang.qzz.io/",
+          "description": "尘野世间，自悟",
+          "icon": "/assets/favicon_1768016086649.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
