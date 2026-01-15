@@ -175,7 +175,7 @@
       "title": "媒体资讯",
       "icon": "Coffee",
       "description": "",
-      "enabled": false,
+      "enabled": true,
       "items": [
         {
           "id": "1761724973240",
