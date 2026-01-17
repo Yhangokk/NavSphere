@@ -820,6 +820,14 @@
               "description": "AI 辅助代码编辑器（IDE），基于 VS Code 分叉构建，深度集成了 Claude 和 GPT 等顶尖大模型。它通过“预测式编辑”、全局代码库索引以及对话式编程，彻底重塑了开发流，让开发者能以自然语言编写、重构和调试代码，是目前 AI 编程领域的代名词。关键词：AI 编程、代码编辑器、智能补全、自然语言开发、VS Code 增强版。",
               "icon": "/assets/img_1737529713172.webp",
               "enabled": true
+            },
+            {
+              "id": "1737530051856",
+              "title": "Trae",
+              "href": "https://www.trae.ai/",
+              "description": "字节新出的，可以用 claude3.5，限时免费\n，它的 Builder 相当于 Cursor 的 Composer 和 Agent 合体，建议默认使用 Builder。",
+              "icon": "/assets/img_1737530421138.webp",
+              "enabled": true
             }
           ]
         },
@@ -863,14 +871,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1737530051856",
-              "title": "Trae",
-              "href": "https://www.trae.ai/",
-              "description": "字节新出的，可以用 claude3.5，限时免费\n，它的 Builder 相当于 Cursor 的 Composer 和 Agent 合体，建议默认使用 Builder。",
-              "icon": "/assets/img_1737530421138.webp",
-              "enabled": true
-            },
             {
               "id": "1760422942439",
               "title": "Codex | OpenAI",
