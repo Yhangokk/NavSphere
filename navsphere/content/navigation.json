@@ -505,6 +505,31 @@
       ],
       "subCategories": [
         {
+          "id": "8_2",
+          "title": "LOGO设计",
+          "href": "#LOGO设计",
+          "icon": "",
+          "description": "",
+          "items": [
+            {
+              "id": "8_2_2",
+              "title": "iOS Icon Gallery",
+              "href": "http://iosicongallery.com/",
+              "description": "专注于收录高品质 iOS 应用图标的设计灵感库，汇集了苹果生态中精美、创意的 App 图标案例，支持按颜色、设计师和年份筛选，是 UI 设计师临摹、参考移动端图标视觉风格的专业画廊。关键词：iOS 图标、App设计、设计灵感、图标素材、UI/UX 参考。",
+              "icon": "/assets/images/logos/iosicongallery.webp",
+              "enabled": true
+            },
+            {
+              "id": "8_2_3",
+              "title": "World Vector Logo",
+              "href": "https://worldvectorlogo.com/",
+              "description": "全球领先的品牌矢量Logo搜索引擎，提供数千个知名品牌的SVG格式官方图标下载，无需注册即可快速获取高清矢量素材，是平面设计师获取企业标识与品牌VI参考的必备工具。关键词：矢量Logo、品牌标志、SVG下载、品牌图标、设计素材。",
+              "icon": "/assets/images/logos/worldvectorlogo.webp",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "8_1",
           "title": "图标素材",
           "href": "#图标素材",
@@ -565,31 +590,6 @@
               "href": "https://lucide.dev/",
               "description": "轻量 SVG 图标库，图标精美一致且可缩放，支持颜色、尺寸、描边宽度自定义，适配主流包管理器",
               "icon": "/assets/favicon_1754229702059.webp",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "8_2",
-          "title": "LOGO设计",
-          "href": "#LOGO设计",
-          "icon": "",
-          "description": "",
-          "items": [
-            {
-              "id": "8_2_2",
-              "title": "iOS Icon Gallery",
-              "href": "http://iosicongallery.com/",
-              "description": "专注于收录高品质 iOS 应用图标的设计灵感库，汇集了苹果生态中精美、创意的 App 图标案例，支持按颜色、设计师和年份筛选，是 UI 设计师临摹、参考移动端图标视觉风格的专业画廊。关键词：iOS 图标、App设计、设计灵感、图标素材、UI/UX 参考。",
-              "icon": "/assets/images/logos/iosicongallery.webp",
-              "enabled": true
-            },
-            {
-              "id": "8_2_3",
-              "title": "World Vector Logo",
-              "href": "https://worldvectorlogo.com/",
-              "description": "全球领先的品牌矢量Logo搜索引擎，提供数千个知名品牌的SVG格式官方图标下载，无需注册即可快速获取高清矢量素材，是平面设计师获取企业标识与品牌VI参考的必备工具。关键词：矢量Logo、品牌标志、SVG下载、品牌图标、设计素材。",
-              "icon": "/assets/images/logos/worldvectorlogo.webp",
               "enabled": true
             }
           ]
