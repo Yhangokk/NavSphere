@@ -563,6 +563,15 @@
       ]
     },
     {
+      "id": "1768616184556",
+      "title": "设计工具箱",
+      "icon": "Palette",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1550,15 +1559,6 @@
       "title": "其他项",
       "icon": "Search",
       "description": "未分类的网站，可直接搜索关键词查找",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1768616184556",
-      "title": "设计工具箱",
-      "icon": "Palette",
-      "description": "",
       "enabled": true,
       "items": [],
       "subCategories": []
