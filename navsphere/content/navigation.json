@@ -363,6 +363,14 @@
               "description": "阿里云盘 阿里网盘",
               "icon": "/assets/favicon_1768644031061.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768644157851_u2jnayylp",
+              "title": "123云盘",
+              "href": "https://www.123pan.com/",
+              "description": "100M内不限速的网盘 云盘",
+              "icon": "/assets/favicon_1768644135654.png",
+              "enabled": true
             }
           ]
         }
