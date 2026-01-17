@@ -1521,7 +1521,7 @@
         {
           "id": "c58e0eb7-8d56-46cc-a00e-841e07500066",
           "title": "文档工具",
-          "icon": "Edit",
+          "icon": "Folder",
           "description": "",
           "enabled": true,
           "items": [
