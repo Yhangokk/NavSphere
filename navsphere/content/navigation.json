@@ -924,16 +924,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1763352609100",
-              "title": "Payloadcms",
-              "href": "https://payloadcms.com/",
-              "description": "访问 payloadcms.com",
-              "icon": "/assets/favicon_1763352611319.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "5820a691-8aa4-4479-a90f-3789744d944a",
