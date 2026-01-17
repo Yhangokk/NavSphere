@@ -224,14 +224,6 @@
               "enabled": true
             },
             {
-              "id": "1764304637626",
-              "title": "Google 云端硬盘",
-              "href": "https://drive.google.com/",
-              "description": "Google Drive（谷歌云盘）是谷歌官方云存储平台，支持上传、存储、同步、共享文档、图片、视频等各类文件，适配多设备，可满足个人备份与团队协作需求，是实用的免费 / 付费云存储工具。",
-              "icon": "/assets/favicon_1764304640963.webp",
-              "enabled": true
-            },
-            {
               "id": "item-1765687115114",
               "title": "PageSpeed Insights",
               "href": "https://pagespeed.web.dev/",
@@ -339,7 +331,16 @@
           "icon": "Cloud",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764304637626",
+              "title": "Google 云端硬盘",
+              "href": "https://drive.google.com/",
+              "description": "Google Drive（谷歌云盘）是谷歌官方云存储平台，支持上传、存储、同步、共享文档、图片、视频等各类文件，适配多设备，可满足个人备份与团队协作需求，是实用的免费 / 付费云存储工具。",
+              "icon": "/assets/favicon_1764304640963.webp",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
