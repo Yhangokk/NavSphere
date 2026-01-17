@@ -44,6 +44,14 @@
           "description": "代码托管平台",
           "icon": "/assets/favicon_1768629653643.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768632408158_iixfbp00x",
+          "title": "小红书",
+          "href": "https://www.xiaohongshu.com/",
+          "description": "",
+          "icon": "/assets/favicon_1768632399534.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
