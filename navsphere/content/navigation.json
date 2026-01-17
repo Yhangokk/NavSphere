@@ -1241,7 +1241,16 @@
       "icon": "LayoutGrid",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1768641599579_wa0tn95tv",
+          "title": "拼多多商家后台",
+          "href": "https://mms.pinduoduo.com/login/?redirectUrl=https%3A%2F%2Fmms.pinduoduo.com%2Fhome%2F",
+          "description": "拼多多-社交电商引领者，官方入驻平台，0元开店1分钟入驻。开网店就选拼多多，新电商新机遇。社交电商流量红利期，获客成本超低，抢占巨额流量入口极速打造爆款。拼多多商家后台，全流程开店教程，从新手入门到进阶玩法，手把手教你开网店，已经有上千万卖家在拼多多入驻赚钱了。入驻、上新、货源、客服、物流、售后，一切问题在拼多多都迎刃而解。海量资源位，超多无门槛活动，新店老店都能上。超多店铺营销推广工具，新手开店不怕没客源。专属对接小二，帮你解决店铺运营困惑。",
+          "icon": "/assets/favicon_1768641587621.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
