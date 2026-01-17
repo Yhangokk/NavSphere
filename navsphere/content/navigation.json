@@ -611,6 +611,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "cec3552a-2c6e-4078-84ad-5faa50b1e9b5",
+          "title": "多媒体处理工具",
+          "icon": "Settings",
+          "description": "音视频压缩制作等在线工具",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
