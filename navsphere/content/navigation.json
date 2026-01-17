@@ -811,6 +811,14 @@
               "description": "全球知名设计平台 Behance 原创设计作品（可能涵盖平面设计、UI/UX、插画等领域），支持作品浏览、点赞互动，也是设计师打造个人品牌、对接合作的专业展示渠道。",
               "icon": "/assets/favicon_1768634430049.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768643709731_5jebmq3dt",
+              "title": "莫高设计 mastergo",
+              "href": "https://mastergo.com/login?redirect=https%253A%252F%252Fmastergo.com%252Ffiles%252Fhome",
+              "description": "原型设计 界面设计",
+              "icon": "/assets/favicon_1768643652050.png",
+              "enabled": true
             }
           ],
           "enabled": true
