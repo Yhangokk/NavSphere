@@ -1249,6 +1249,14 @@
           "description": "鞋子买卖批发进货",
           "icon": "/assets/favicon_1768638257442.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768641492363_2r2x4p2t0",
+          "title": "包牛牛 Bao66",
+          "href": "https://www.bao66.cn/web/",
+          "description": "男包 女包 行李包进货拿货网站",
+          "icon": "/assets/favicon_1768641447380.png",
+          "enabled": true
         }
       ],
       "subCategories": []
