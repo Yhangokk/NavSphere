@@ -905,6 +905,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "56697971-ef57-46cf-ab25-5a20db821978",
+          "title": "开源项目",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
