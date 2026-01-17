@@ -28,6 +28,14 @@
           "description": "OpenAI 官方 AI 聊天平台，支持临时聊天模式，副本仅保留 30 天，隐私性有保障，可满足各类答疑、辅助需求。",
           "icon": "/assets/images/logos/chatgpt.webp",
           "enabled": true
+        },
+        {
+          "id": "1736922380901",
+          "title": "Excalidraw",
+          "href": "https://excalidraw.com/",
+          "description": "不用登录，手绘风格的在线白板工具，支持实时协作、端到端加密与无限画布，能够轻松绘制精美的流程图、架构图及原型草图，是开发者与设计师头脑风暴的提效利器。关键词：在线白板、手绘风格、流程图工具、协作绘图、开源设计。",
+          "icon": "/assets/img_1736922499401.webp",
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -798,14 +806,6 @@
               "href": "https://www.drawio.com/",
               "description": "可以绘制架构图、流程图，软件周期内的其它设计图。为团队绘制安全第一的图表。\n将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
               "icon": "/assets/img_1736922080517.webp",
-              "enabled": true
-            },
-            {
-              "id": "1736922380901",
-              "title": "Excalidraw",
-              "href": "https://excalidraw.com/",
-              "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
-              "icon": "/assets/img_1736922499401.webp",
               "enabled": true
             },
             {
