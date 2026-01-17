@@ -33,7 +33,7 @@
           "id": "1_5",
           "title": "Producthunt",
           "href": "https://www.producthunt.com/",
-          "description": "发现新鲜有趣的产品",
+          "description": "Product Hunt 是全球知名的新产品发现与分享平台，聚焦科技产品、工具、创业项目等，支持开发者 / 创业者发布新品，用户可投票、评论互动，帮你快速发掘各类优质创新产品，是科技爱好者和创业者找灵感、推新品的核心平台。",
           "icon": "/assets/images/logos/producthunt.webp",
           "enabled": true
         },
