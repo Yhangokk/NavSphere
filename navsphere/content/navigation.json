@@ -753,9 +753,9 @@
         },
         {
           "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
-          "title": "UI框架",
+          "title": "编程工具类",
           "icon": "Files",
-          "description": "",
+          "description": "AI编程 代码优化类",
           "enabled": true,
           "items": [
             {
