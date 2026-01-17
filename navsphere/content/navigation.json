@@ -504,14 +504,6 @@
               "enabled": true
             },
             {
-              "id": "8_1_13",
-              "title": "Simpleline Icons",
-              "href": "http://simplelineicons.com/",
-              "description": "Simple line Icons pack",
-              "icon": "/assets/images/logos/simplelineicons.webp",
-              "enabled": true
-            },
-            {
               "id": "1754229699374",
               "title": "Lucide",
               "href": "https://lucide.dev/",
