@@ -771,6 +771,14 @@
               "description": "设计灵感与人才平台，汇聚众多优秀设计师，展示 Logo、UI/UX 设计、仪表盘、网站设计等多元作品",
               "icon": "/assets/favicon_1768634317118.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768634518690_kq06a30gf",
+              "title": "Behance",
+              "href": "https://www.behance.net/bacosta",
+              "description": "全球知名设计平台 Behance 原创设计作品（可能涵盖平面设计、UI/UX、插画等领域），支持作品浏览、点赞互动，也是设计师打造个人品牌、对接合作的专业展示渠道。",
+              "icon": "/assets/favicon_1768634430049.png",
+              "enabled": true
             }
           ],
           "enabled": true
