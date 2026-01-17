@@ -293,17 +293,17 @@
           "enabled": true
         },
         {
-          "id": "672c11b2-214c-4294-b47c-c172adfba451",
-          "title": "学习资源",
-          "icon": "FileText",
+          "id": "41c649af-f947-41de-9116-10ea9d63c35c",
+          "title": "视频解析下载",
+          "icon": "Code",
           "description": "",
           "enabled": true,
           "items": []
         },
         {
-          "id": "41c649af-f947-41de-9116-10ea9d63c35c",
-          "title": "视频解析下载",
-          "icon": "Code",
+          "id": "672c11b2-214c-4294-b47c-c172adfba451",
+          "title": "学习资源",
+          "icon": "FileText",
           "description": "",
           "enabled": true,
           "items": []
