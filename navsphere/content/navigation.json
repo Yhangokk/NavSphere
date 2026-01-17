@@ -858,6 +858,14 @@
           ]
         },
         {
+          "id": "e31e06fd-b4eb-4b26-852a-f0a9b0a6e0fd",
+          "title": "摄影创意类",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "cec3552a-2c6e-4078-84ad-5faa50b1e9b5",
           "title": "多媒体处理工具",
           "icon": "Settings",
@@ -889,14 +897,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "e31e06fd-b4eb-4b26-852a-f0a9b0a6e0fd",
-          "title": "摄影创意类",
-          "icon": "Zap",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
