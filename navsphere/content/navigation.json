@@ -1241,7 +1241,16 @@
       "icon": "Search",
       "description": "未分类的网站，可直接搜索关键词查找",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1768638291442_m6ee3h6l9",
+          "title": "开山 鞋网 K3",
+          "href": "https://www.k3.cn/web/welcome",
+          "description": "鞋子买卖批发进货",
+          "icon": "/assets/favicon_1768638257442.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
