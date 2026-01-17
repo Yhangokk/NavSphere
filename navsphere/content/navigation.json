@@ -1552,6 +1552,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1768614964366",
+      "title": "其他项",
+      "icon": "Search",
+      "description": "未分类的网站，可直接搜索关键词查找",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
