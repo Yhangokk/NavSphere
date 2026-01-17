@@ -940,16 +940,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1761279682720",
-              "title": "Coolify",
-              "href": "https://coolify.io/",
-              "description": "Self-hosting platform with superpowers. Deploy apps, databases &#38; 280+ services to your server. Open-source alternative to Heroku.",
-              "icon": "/assets/favicon_1761279686786.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "baf3db58-404b-4385-80cb-c2ddcf5747fc",
