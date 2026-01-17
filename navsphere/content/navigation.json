@@ -1260,6 +1260,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1768641563088",
+      "title": "电商资源类",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
