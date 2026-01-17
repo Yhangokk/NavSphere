@@ -736,9 +736,9 @@
       "subCategories": [
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
-          "title": "ICON",
+          "title": "图标框架类",
           "icon": "BookOpen",
-          "description": "站点图标",
+          "description": "站点图标、UI框架等",
           "enabled": true,
           "items": [
             {
