@@ -9,7 +9,7 @@
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。能一键构建部署前端 / 全栈 / AI 应用，还自带全球 CDN 加速，零配置超便捷",
+          "description": "Vercel 是开发者友好的 AI 云平台，提供开发者工具与云基础设施，支持构建、扩展并保障更快更个性化的网站，可全球即时部署，兼顾企业级规模与安全，提供免费账号及专业/企业版方案，是高效部署网页项目的优选工具。",
           "icon": "/assets/images/logos/vercel.webp",
           "enabled": true
         },
