@@ -209,6 +209,14 @@
               "description": "Tensor.art 是便捷的 AI 绘画平台，支持通过多种 AI 模型快速生成不同风格图像，可浏览、分享优质画作与创作模型，操作简单，是 AI 绘画爱好者实现创意、交流灵感的实用工具。",
               "icon": "/assets/images/logos/tensorart.webp",
               "enabled": true
+            },
+            {
+              "id": "8_3_1",
+              "title": "Freepik",
+              "href": "https://www.freepik.com/",
+              "description": "AI 设计平台，提供数亿计的高质量矢量图、免版税照片、PSD 素材及视频模板，现已集成领先的 AI 生成工具，是设计师与自媒体人高效获取灵感、提升产出的全能素材库。关键词：素材下载、AI绘画、矢量图库、设计模板、高清摄影。",
+              "icon": "/assets/images/logos/freepik.webp",
+              "enabled": true
             }
           ]
         },
@@ -545,14 +553,6 @@
           "icon": "",
           "description": "",
           "items": [
-            {
-              "id": "8_3_1",
-              "title": "Freepik",
-              "href": "https://www.freepik.com/",
-              "description": "免费矢量素材",
-              "icon": "/assets/images/logos/freepik.webp",
-              "enabled": true
-            },
             {
               "id": "8_3_2",
               "title": "Unsplash",
