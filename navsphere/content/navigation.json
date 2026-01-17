@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "1_3",
-          "title": "Cloudflare",
-          "href": "https://dash.cloudflare.com/",
-          "description": "Cloudflare官方管理控制台，简称CF云，提供CDN加速、DDoS防护、SSL证书、DNS配置等核心服务，支持一键优化网站访问速度、抵御网络攻击，还能管理域名解析、边缘计算等功能，是站长必备的免费/付费网站安全与性能管理工具。",
-          "icon": "/assets/images/logos/cloudflar.webp",
-          "enabled": true
-        },
-        {
           "id": "1_4",
           "title": "Google AdSense",
           "href": "https://www.google.com/adsense/",
@@ -747,6 +739,14 @@
               "href": "https://vercel.com/",
               "description": "Vercel 是开发者友好的 AI 云平台，提供开发者工具与云基础设施，支持构建、扩展并保障更快更个性化的网站，可全球即时部署，兼顾企业级规模与安全，提供免费账号及专业/企业版方案，是高效部署网页项目的优选工具。",
               "icon": "/assets/images/logos/vercel.webp",
+              "enabled": true
+            },
+            {
+              "id": "1_3",
+              "title": "Cloudflare",
+              "href": "https://dash.cloudflare.com/",
+              "description": "Cloudflare官方管理控制台，简称CF云，提供CDN加速、DDoS防护、SSL证书、DNS配置等核心服务，支持一键优化网站访问速度、抵御网络攻击，还能管理域名解析、边缘计算等功能，是站长必备的免费/付费网站安全与性能管理工具。",
+              "icon": "/assets/images/logos/cloudflar.webp",
               "enabled": true
             }
           ]
