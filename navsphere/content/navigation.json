@@ -1029,6 +1029,14 @@
           "description": "妖怪与神话文化的平台，核心内容包含全球各类妖怪、神兽词条（如灵昌龙马、络新妇），还有相关杂谈文章、传说节选、主题讨论等内容。平台推出原创国风周边（挂件、玩偶）及神兽漫画，还规划了新版 APP，是神话妖怪文化爱好者交流、了解相关知识的特色平台。",
           "icon": "/assets/favicon_1768643368078.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768643635531_5a5myv7hw",
+          "title": "冷知识",
+          "href": "https://www.lzs100.com/",
+          "description": "各种冷知识文章",
+          "icon": "/assets/favicon_1768643585406.png",
+          "enabled": true
         }
       ],
       "subCategories": []
