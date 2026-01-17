@@ -836,6 +836,14 @@
               "description": "Codex 是 OpenAI 推出的一系列人工智能编码工具，通过将任务委托给强大的云端和本地编码代理，帮助开发人员提升工作效率。",
               "icon": "/assets/favicon_1760422969029.webp",
               "enabled": true
+            },
+            {
+              "id": "1759044488616",
+              "title": "wordpress",
+              "href": "https://wordpress.org/",
+              "description": "自建站平台，支持完全自主托管，是构建博客、企业官网、电商（WooCommerce）及复杂 Web 应用的工业级开源框架。关键词：开源 CMS、自托管、插件生态、主题定制、全球标准。",
+              "icon": "/assets/favicon_1759044512474.webp",
+              "enabled": true
             }
           ]
         },
@@ -903,16 +911,7 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1759044488616",
-              "title": "wordpress",
-              "href": "https://wordpress.org/",
-              "description": "自建站平台，支持完全自主托管，是构建博客、企业官网、电商（WooCommerce）及复杂 Web 应用的工业级开源框架。关键词：开源 CMS、自托管、插件生态、主题定制、全球标准。",
-              "icon": "/assets/favicon_1759044512474.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "2d7d4354-20f1-41a5-beeb-068031113bca",
