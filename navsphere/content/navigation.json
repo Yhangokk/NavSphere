@@ -1553,6 +1553,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1768616184556",
+      "title": "设计工具箱",
+      "icon": "Palette",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
