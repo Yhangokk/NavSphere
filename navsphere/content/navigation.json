@@ -381,6 +381,15 @@
       "subCategories": []
     },
     {
+      "id": "1768616184556",
+      "title": "设计工具箱",
+      "icon": "Palette",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1735433560958",
       "title": "自媒体工具包",
       "icon": "Video",
@@ -1550,15 +1559,6 @@
       "title": "其他项",
       "icon": "Search",
       "description": "未分类的网站，可直接搜索关键词查找",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1768616184556",
-      "title": "设计工具箱",
-      "icon": "Palette",
-      "description": "",
       "enabled": true,
       "items": [],
       "subCategories": []
