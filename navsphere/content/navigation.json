@@ -868,6 +868,14 @@
           "description": "Product Hunt 是全球知名的新产品发现与分享平台，聚焦科技产品、工具、创业项目等，支持开发者 / 创业者发布新品，用户可投票、评论互动，帮你快速发掘各类优质创新产品，是科技爱好者和创业者找灵感、推新品的核心平台。",
           "icon": "/assets/images/logos/producthunt.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1768633352578_45qbxzpfi",
+          "title": "Emoji表情大全",
+          "href": "https://emoji6.com/emojiall/",
+          "description": "探索最全最新的emoji表情库，👆点击即可复制，支持中文和英文搜索🔍emoji。查找你喜欢的emoji表情符号，尽情享受表情的乐趣和创造力🎨。",
+          "icon": "/assets/favicon_1768633338748.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
