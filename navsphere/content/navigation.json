@@ -722,7 +722,7 @@
               "id": "1735265532154",
               "title": "shadcn ",
               "href": "https://ui.shadcn.com/",
-              "description": "Build your component library\nBeautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.",
+              "description": "现代化 UI 组件库，采用 React 与 Tailwind CSS 构建，主打“复制粘贴”而非传统的 npm 安装模式，赋予开发者对代码 100% 的掌控力，是打造高质感中后台界面和 Web 应用的标配。关键词：React 组件库、Tailwind CSS、开源 UI、前端开发、设计系统。",
               "icon": "/assets/img_1735265752690.webp",
               "enabled": true
             },
