@@ -36,6 +36,14 @@
           "description": "不用登录，手绘风格的在线白板工具，支持实时协作、端到端加密与无限画布，能够轻松绘制精美的流程图、架构图及原型草图，是开发者与设计师头脑风暴的提效利器。关键词：在线白板、手绘风格、流程图工具、协作绘图、开源设计。",
           "icon": "/assets/img_1736922499401.webp",
           "enabled": true
+        },
+        {
+          "id": "1737529887245",
+          "title": "GitHub",
+          "href": "https://github.com/features/copilot",
+          "description": "代码托管平台",
+          "icon": "/assets/img_1737530043708.webp",
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -831,14 +839,6 @@
               "href": "https://www.cursor.com/",
               "description": "AI 辅助代码编辑器（IDE），基于 VS Code 分叉构建，深度集成了 Claude 和 GPT 等顶尖大模型。它通过“预测式编辑”、全局代码库索引以及对话式编程，彻底重塑了开发流，让开发者能以自然语言编写、重构和调试代码，是目前 AI 编程领域的代名词。关键词：AI 编程、代码编辑器、智能补全、自然语言开发、VS Code 增强版。",
               "icon": "/assets/img_1737529713172.webp",
-              "enabled": true
-            },
-            {
-              "id": "1737529887245",
-              "title": "GitHub Copilot",
-              "href": "https://github.com/features/copilot",
-              "description": "The AI editor for everyone",
-              "icon": "/assets/img_1737530043708.webp",
               "enabled": true
             },
             {
