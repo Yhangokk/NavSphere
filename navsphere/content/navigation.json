@@ -455,14 +455,6 @@
       "icon": "Palette",
       "items": [
         {
-          "id": "3_5",
-          "title": "TinyPNG",
-          "href": "https://tinypng.com/",
-          "description": "在线图片压缩工具",
-          "icon": "/assets/images/logos/tinypng.webp",
-          "enabled": true
-        },
-        {
           "id": "5_1",
           "title": "Figma",
           "href": "https://www.figma.com/",
@@ -618,7 +610,16 @@
           "icon": "Settings",
           "description": "音视频压缩制作等在线工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "3_5",
+              "title": "TinyPNG",
+              "href": "https://tinypng.com/",
+              "description": "在线图片压缩工具",
+              "icon": "/assets/images/logos/tinypng.webp",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
