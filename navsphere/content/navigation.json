@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "1741747111596",
-          "title": "PostSpark",
-          "href": "https://postspark.app/",
-          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
-          "icon": "/assets/img_1741747241014.webp",
-          "enabled": true
-        },
-        {
           "id": "item-1754218579319",
           "enabled": true,
           "title": "DeepSeek - 探索未至之境",
@@ -565,6 +557,14 @@
           "href": "https://shots.so/",
           "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
           "icon": "/assets/images/logos/shots.webp",
+          "enabled": true
+        },
+        {
+          "id": "1741747111596",
+          "title": "PostSpark",
+          "href": "https://postspark.app/",
+          "description": "PostSpark.app 是实用的截图美化编辑工具，支持 URL 转截图，提供 16 + 布局、浏览器框架、标注、特效等功能，可美化截图、推文、代码及模型图，支持导出，帮你快速制作精美截图，操作便捷高效。",
+          "icon": "/assets/img_1741747241014.webp",
           "enabled": true
         }
       ],
