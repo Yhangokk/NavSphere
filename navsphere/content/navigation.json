@@ -779,6 +779,14 @@
               "description": "交互动画平台，提供海量轻量级 Lottie 动画素材及编辑预览工具，支持一键导出适配 Web、iOS 和 Android 的动画代码，是 UI 设计师与开发者实现高品质动效的首选资源站。关键词：Lottie 动画、动效素材、轻量化动画、UI 设计、交互动画。",
               "icon": "/assets/favicon_1760427449858.webp",
               "enabled": true
+            },
+            {
+              "id": "1759282146186",
+              "title": "Remotion",
+              "href": "https://www.remotion.dev/",
+              "description": "一套创新的编程绘图引擎，允许开发者使用 React 编写视频。它将 Web 技术的灵活性带入视频制作领域，支持通过代码控制每一帧的排版、动画与数据渲染，并支持无头浏览器服务器端渲染输出 MP4。它是制作动态数据可视化视频、自动化广告视频及程序员演示动画的顶级方案。关键词：视频编程、React 视频、自动化视频渲染、数据可视化、编程动画。",
+              "icon": "/assets/favicon_1759282148802.webp",
+              "enabled": true
             }
           ]
         },
@@ -919,16 +927,7 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1759282146186",
-              "title": "Remotion",
-              "href": "https://www.remotion.dev/",
-              "description": "一套创新的编程绘图引擎，允许开发者使用 React 编写视频。它将 Web 技术的灵活性带入视频制作领域，支持通过代码控制每一帧的排版、动画与数据渲染，并支持无头浏览器服务器端渲染输出 MP4。它是制作动态数据可视化视频、自动化广告视频及程序员演示动画的顶级方案。关键词：视频编程、React 视频、自动化视频渲染、数据可视化、编程动画。",
-              "icon": "/assets/favicon_1759282148802.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
