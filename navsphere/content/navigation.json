@@ -60,6 +60,14 @@
           "description": "记录美好生活",
           "icon": "/assets/favicon_1768632464206.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768632841354_6vo6entzg",
+          "title": "蛙蛙工具 - 便捷的在线工具网站",
+          "href": "https://www.iamwawa.cn/",
+          "description": "蛙蛙工具是一个免费便捷在线工具网站，提供语言工具、文本工具、转换工具、编码解码、站长工具等便利的在线工具服务，是你生活和工作学习的好帮手。",
+          "icon": "/assets/favicon_1768632822164.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
