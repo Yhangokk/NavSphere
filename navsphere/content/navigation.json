@@ -14,14 +14,6 @@
           "enabled": true
         },
         {
-          "id": "1765279305478",
-          "title": "NewKit - 在线效率工具箱",
-          "href": "https://www.newkit.site/",
-          "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
-          "icon": "/assets/favicon_1765279307988.svg",
-          "enabled": true
-        },
-        {
           "id": "item-1765355064106",
           "enabled": true,
           "title": "NavSphere导航",
@@ -844,7 +836,16 @@
       "icon": "Box",
       "description": "开发者工具，工具包",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1765279305478",
+          "title": "NewKit - 在线效率工具箱",
+          "href": "https://www.newkit.site/",
+          "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
+          "icon": "/assets/favicon_1765279307988.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
