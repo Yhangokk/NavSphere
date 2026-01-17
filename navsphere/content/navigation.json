@@ -499,7 +499,7 @@
               "id": "8_1_12",
               "title": "ion icons",
               "href": "http://ionicons.com/",
-              "description": "The premium icon font for Ionic Framework.",
+              "description": "高品质开源图标库，包含 1300 余个专为 Web、iOS、Android 和桌面应用定制的精美图标，支持 SVG 与 Web Component，是开发者构建高性能跨平台界面的首选图标集。关键词：开源图标、SVG素材、移动端UI、Ionic框架、矢量图标。",
               "icon": "/assets/images/logos/ionicons.webp",
               "enabled": true
             },
