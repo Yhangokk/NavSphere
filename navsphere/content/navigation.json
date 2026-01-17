@@ -805,6 +805,14 @@
               "description": "轻量 SVG 图标库，图标精美一致且可缩放，支持颜色、尺寸、描边宽度自定义，适配主流包管理器",
               "icon": "/assets/favicon_1754229702059.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1768633782714_3ki0hrbht",
+              "title": "icon图标 免费图标",
+              "href": "https://www.freepik.com/icons",
+              "description": "下载免费图标和贴纸，适用于您的项目，有 PNG 或 SVG 格式。还有动画图标可供使用。您也可以在线复制或编辑它们！",
+              "icon": "/assets/favicon_1768633739273.png",
+              "enabled": true
             }
           ]
         },
