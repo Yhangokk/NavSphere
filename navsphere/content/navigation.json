@@ -746,7 +746,7 @@
               "id": "1765416694684",
               "title": "Find your Template",
               "href": "https://vercel.com/templates",
-              "description": "Jumpstart your app development process with pre-built solutions from Vercel and our community.",
+              "description": "由 Vercel 官方与社区维护的现代化 Web 应用模板库，涵盖 AI 聊天、电商、SaaS 及博客等丰富场景，支持一键部署 Next.js 等主流框架项目，是开发者快速构建高性能全栈应用的起跑线。关键词：项目模板、一键部署、Next.js 框架、SaaS 启动包、全栈开发。",
               "icon": "/assets/favicon_1765416698840.webp",
               "enabled": true
             },
