@@ -747,6 +747,14 @@
               "description": "现代化 UI 组件库，采用 React 与 Tailwind CSS 构建，主打“复制粘贴”而非传统的 npm 安装模式，赋予开发者对代码 100% 的掌控力，是打造高质感中后台界面和 Web 应用的标配。关键词：React 组件库、Tailwind CSS、开源 UI、前端开发、设计系统。",
               "icon": "/assets/img_1735265752690.webp",
               "enabled": true
+            },
+            {
+              "id": "1751433573273",
+              "title": "shadcn ui  Theme",
+              "href": "https://tweakcn.com/",
+              "description": "专为 shadcn/ui 打造的可视化主题编辑器，提供丰富的预设方案与 AI 生成功能，支持实时调整颜色、字体及 Tailwind CSS 属性，让开发者无需繁琐配置即可一键导出精美、合规的界面样式代码。关键词：shadcn/ui 主题、UI 编辑器、Tailwind CSS、代码生成、设计工具。",
+              "icon": "/assets/img_1751433579053.webp",
+              "enabled": true
             }
           ]
         },
@@ -757,14 +765,6 @@
           "description": "AI编程 代码优化类",
           "enabled": true,
           "items": [
-            {
-              "id": "1751433573273",
-              "title": "shadcn ui  Theme",
-              "href": "https://tweakcn.com/",
-              "description": "专为 shadcn/ui 打造的可视化主题编辑器，提供丰富的预设方案与 AI 生成功能，支持实时调整颜色、字体及 Tailwind CSS 属性，让开发者无需繁琐配置即可一键导出精美、合规的界面样式代码。关键词：shadcn/ui 主题、UI 编辑器、Tailwind CSS、代码生成、设计工具。",
-              "icon": "/assets/img_1751433579053.webp",
-              "enabled": true
-            },
             {
               "id": "1763380040947",
               "title": "IndieHub ",
