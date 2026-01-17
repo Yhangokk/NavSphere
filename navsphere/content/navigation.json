@@ -715,6 +715,14 @@
               "description": "设计领域的综合平台，设有素材、设计服务、课程、活动、版权图库、共创等核心栏目，支持登录注册与首页内容偏好自定义，汇聚设计相关资源与服务，是设计师交流、获取素材及提升技能的专业平台。",
               "icon": "/assets/favicon_1768633267028.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768633380114_c1qa5n6tu",
+              "title": "稿定设计-在线设计平台",
+              "href": "https://www.gaoding.com/utms/970392bdfeed4e8680a0ffc585dd1bb6",
+              "description": "海量设计模板加持不会PS也能轻松搞定设计，在线设计海报、简历、PPT、名片、宣传单、邀请函、Logo等多种设计需求场景，3秒抠图、批量套版、AI辅助设计实用便捷。海量正版授权资源，商用无忧。",
+              "icon": "/assets/favicon_1768633365630.ico",
+              "enabled": true
             }
           ],
           "enabled": true
