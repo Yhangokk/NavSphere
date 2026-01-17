@@ -157,7 +157,7 @@
               "id": "1767055771104",
               "title": "Awesome MCP Servers",
               "href": "https://mcpservers.org/",
-              "description": "A curated collection of MCP (Model Context Protocol) servers. Search and discover MCP servers and clients.",
+              "description": "收录 1968 个各类 MCP 服务器，涵盖车票查询、3D 卡通生成、文件解析、区块链交互、学术文献搜索等多场景功能，支持 AI 助手集成各类服务，部分需 API 密钥，是适配 MCP 协议的实用工具平台。",
               "icon": "/assets/favicon_1767055774467.png",
               "enabled": true
             }
