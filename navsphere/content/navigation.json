@@ -739,6 +739,14 @@
               "description": "一套极简且高度一致的开源图标库，由社区维护，提供上千款清晰、美观的矢量图标，支持 React、Vue 等多种前端框架集成，是开发者构建现代化干净 UI 界面的完美替代方案。关键词：开源图标、SVG素材、前端开发、UI设计、轻量级图标。",
               "icon": "/assets/img_1750831362985.webp",
               "enabled": true
+            },
+            {
+              "id": "1735265532154",
+              "title": "shadcn ",
+              "href": "https://ui.shadcn.com/",
+              "description": "现代化 UI 组件库，采用 React 与 Tailwind CSS 构建，主打“复制粘贴”而非传统的 npm 安装模式，赋予开发者对代码 100% 的掌控力，是打造高质感中后台界面和 Web 应用的标配。关键词：React 组件库、Tailwind CSS、开源 UI、前端开发、设计系统。",
+              "icon": "/assets/img_1735265752690.webp",
+              "enabled": true
             }
           ]
         },
@@ -749,14 +757,6 @@
           "description": "AI编程 代码优化类",
           "enabled": true,
           "items": [
-            {
-              "id": "1735265532154",
-              "title": "shadcn ",
-              "href": "https://ui.shadcn.com/",
-              "description": "现代化 UI 组件库，采用 React 与 Tailwind CSS 构建，主打“复制粘贴”而非传统的 npm 安装模式，赋予开发者对代码 100% 的掌控力，是打造高质感中后台界面和 Web 应用的标配。关键词：React 组件库、Tailwind CSS、开源 UI、前端开发、设计系统。",
-              "icon": "/assets/img_1735265752690.webp",
-              "enabled": true
-            },
             {
               "id": "1751433573273",
               "title": "shadcn ui  Theme",
