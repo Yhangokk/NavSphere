@@ -535,14 +535,6 @@
               "description": "全球领先的品牌矢量Logo搜索引擎，提供数千个知名品牌的SVG格式官方图标下载，无需注册即可快速获取高清矢量素材，是平面设计师获取企业标识与品牌VI参考的必备工具。关键词：矢量Logo、品牌标志、SVG下载、品牌图标、设计素材。",
               "icon": "/assets/images/logos/worldvectorlogo.webp",
               "enabled": true
-            },
-            {
-              "id": "8_2_4",
-              "title": "Instant Logo Search",
-              "href": "http://instantlogosearch.com/",
-              "description": "Search & download thousands of logos instantly",
-              "icon": "/assets/images/logos/InstantLogoSearch.webp",
-              "enabled": true
             }
           ]
         },
