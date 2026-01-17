@@ -20,6 +20,14 @@
           "description": "尘野世间，自悟",
           "icon": "/assets/favicon_1768016086649.ico",
           "enabled": true
+        },
+        {
+          "id": "9_1",
+          "title": "ChatGPT",
+          "href": "https://chat.openai.com/",
+          "description": "OpenAI 官方 AI 聊天平台，支持临时聊天模式，副本仅保留 30 天，隐私性有保障，可满足各类答疑、辅助需求。",
+          "icon": "/assets/images/logos/chatgpt.webp",
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -39,14 +47,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "9_1",
-              "title": "ChatGPT",
-              "href": "https://chat.openai.com/",
-              "description": "OpenAI开发的人工智能聊天机器人程序。",
-              "icon": "/assets/images/logos/chatgpt.webp",
-              "enabled": true
-            },
             {
               "id": "9_2",
               "title": "Claude",
