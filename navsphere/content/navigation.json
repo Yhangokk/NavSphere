@@ -506,10 +506,10 @@
       "subCategories": [
         {
           "id": "8_2",
-          "title": "LOGO设计",
+          "title": "界面设计",
           "href": "#LOGO设计",
-          "icon": "",
-          "description": "",
+          "icon": "Zap",
+          "description": "设计类工具网站",
           "items": [
             {
               "id": "8_2_2",
@@ -527,7 +527,8 @@
               "icon": "/assets/images/logos/worldvectorlogo.webp",
               "enabled": true
             }
-          ]
+          ],
+          "enabled": true
         },
         {
           "id": "8_1",
