@@ -89,11 +89,11 @@
             },
             {
               "id": "item-1764762513556",
-              "enabled": true,
               "title": "Google AI Studio",
               "href": "https://aistudio.google.com/prompts/new_chat",
-              "description": "Google AI Studio",
-              "icon": "/assets/favicon_1764762488719.webp"
+              "description": "谷歌 AI Studio 的 AI 聊天页面，支持提示词创作与智能对话，可满足开发调试、学习咨询等需求，操作便捷，是适配各类 AI 交互场景的实用工具。",
+              "icon": "/assets/favicon_1764762488719.webp",
+              "enabled": true
             },
             {
               "id": "1_6",
