@@ -950,14 +950,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1765453428896",
-              "title": "AGENTS.md",
-              "href": "https://agents.md/",
-              "description": "AGENTS.md is a simple, open format for guiding coding agents, used by over 60k open-source projects. Think of it as a README for agents.",
-              "icon": "/assets/favicon_1765453432472.webp",
-              "enabled": true
-            },
-            {
               "id": "1766148040930",
               "title": "Website Authority Checker: Check the &quot;Authority&quot; Of Any Domain",
               "href": "https://ahrefs.com/website-authority-checker",
