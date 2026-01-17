@@ -889,6 +889,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "e31e06fd-b4eb-4b26-852a-f0a9b0a6e0fd",
+          "title": "摄影创意类",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
