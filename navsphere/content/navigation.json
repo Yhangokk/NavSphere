@@ -347,6 +347,14 @@
               "description": "百度网盘登录",
               "icon": "/assets/favicon_1768643943713.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768644014611_3qlgk2mb9",
+              "title": "天翼云盘",
+              "href": "https://cloud.189.cn/web/login.html",
+              "description": "天翼云盘 网盘登录",
+              "icon": "/assets/favicon_1768643985402.png",
+              "enabled": true
             }
           ]
         }
