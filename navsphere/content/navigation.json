@@ -246,14 +246,6 @@
               "description": "在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
               "icon": "/assets/img_1736922262462.webp",
               "enabled": true
-            },
-            {
-              "id": "site_1768641746675_feg6i9mva",
-              "title": "高清视频视频解析下载",
-              "href": "https://youtube.iiilab.com/",
-              "description": "YouTube高清视频解析下载工具支持解析YouTube软件和油管网站上的任何视频,解析出来的视频无水印.是一个免费的在线YouTube下载器,可借助此下载器在电脑或手机上方便的下载保存YouTube平台的视频.",
-              "icon": "/assets/favicon_1768641720677.ico",
-              "enabled": true
             }
           ],
           "enabled": true
@@ -298,7 +290,16 @@
           "icon": "Code",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1768641746675_feg6i9mva",
+              "title": "高清视频视频解析下载",
+              "href": "https://youtube.iiilab.com/",
+              "description": "YouTube高清视频解析下载工具支持解析YouTube软件和油管网站上的任何视频,解析出来的视频无水印.是一个免费的在线YouTube下载器,可借助此下载器在电脑或手机上方便的下载保存YouTube平台的视频.",
+              "icon": "/assets/favicon_1768641720677.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "672c11b2-214c-4294-b47c-c172adfba451",
