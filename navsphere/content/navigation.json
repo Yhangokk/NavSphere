@@ -960,6 +960,14 @@
               "description": "",
               "icon": "/assets/favicon_1768634140045.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768643543715_n1qsitch8",
+              "title": "高清无版权图片",
+              "href": "https://colorhub.me/",
+              "description": "高清无版权图片，个人和商业用途免费",
+              "icon": "/assets/favicon_1768643525601.png",
+              "enabled": true
             }
           ]
         }
