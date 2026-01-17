@@ -771,6 +771,14 @@
               "description": "专门为独立创作者（Indie Makers）打造的 UI 组件库导航频道，收录了上百款高质量的 React、Vue 及 Tailwind CSS 开源组件与模板，旨在帮助开发者跳过繁琐的样式编写、快速交付产品界面。关键词：独立开发、UI 组件、前端资源、Tailwind CSS、开发工具",
               "icon": "/assets/favicon_1763380043621.webp",
               "enabled": true
+            },
+            {
+              "id": "1760427440146",
+              "title": "LottieFiles: Download Free lightweight animations",
+              "href": "https://lottiefiles.com/",
+              "description": "交互动画平台，提供海量轻量级 Lottie 动画素材及编辑预览工具，支持一键导出适配 Web、iOS 和 Android 的动画代码，是 UI 设计师与开发者实现高品质动效的首选资源站。关键词：Lottie 动画、动效素材、轻量化动画、UI 设计、交互动画。",
+              "icon": "/assets/favicon_1760427449858.webp",
+              "enabled": true
             }
           ]
         },
@@ -838,16 +846,7 @@
           "icon": "Book",
           "description": "架构图，流程图",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760427440146",
-              "title": "LottieFiles: Download Free lightweight animations",
-              "href": "https://lottiefiles.com/",
-              "description": "交互动画平台，提供海量轻量级 Lottie 动画素材及编辑预览工具，支持一键导出适配 Web、iOS 和 Android 的动画代码，是 UI 设计师与开发者实现高品质动效的首选资源站。关键词：Lottie 动画、动效素材、轻量化动画、UI 设计、交互动画。",
-              "icon": "/assets/favicon_1760427449858.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "62f10118-6926-4ea5-bb65-14adc90a29d2",
