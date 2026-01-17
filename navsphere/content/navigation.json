@@ -231,6 +231,14 @@
               "description": "你的设备，在网页端轻松掌控。通过网页浏览器无线管理你的安卓设备，随时随地，畅通无阻。",
               "icon": "/assets/favicon_1768633624113.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768633700514_g0gc2ttrj",
+              "title": "局域网互传 Snapdrop",
+              "href": "https://snapdrop.net/#",
+              "description": "与附近的人分享图片、视频、PDF 和链接。点对点传输，开源。无需设置，无需注册。",
+              "icon": "/assets/favicon_1768633671033.png",
+              "enabled": true
             }
           ],
           "enabled": true
