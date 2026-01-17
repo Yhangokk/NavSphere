@@ -15,11 +15,11 @@
         },
         {
           "id": "item-1765687115114",
-          "enabled": true,
           "title": "PageSpeed Insights",
           "href": "https://pagespeed.web.dev/",
-          "description": "",
-          "icon": "/assets/favicon_1765687105275.webp"
+          "description": "Pagespeed.web.dev 是谷歌推出的网页性能检测工具，可分析网页加载速度、性能表现，提供具体优化建议",
+          "icon": "/assets/favicon_1765687105275.webp",
+          "enabled": true
         },
         {
           "id": "site_1768016130469_2yt22bp5z",
