@@ -332,6 +332,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b0f5f463-f717-478b-baa7-1a6e46f2dcb1",
+          "title": "各种云盘",
+          "icon": "Cloud",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
