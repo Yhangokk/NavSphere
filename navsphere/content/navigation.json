@@ -1453,6 +1453,14 @@
           "description": "男包 女包 行李包进货拿货网站",
           "icon": "/assets/favicon_1768641447380.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768644470819_owjzs1lvs",
+          "title": "FSCloud 魔法梯子",
+          "href": "https://web.fscloud.app/#/register?code=cx5Mp7He",
+          "description": "一个有魔法的梯子",
+          "icon": "https://web.fscloud.app/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
