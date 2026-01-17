@@ -151,6 +151,14 @@
               "description": "认识 NotebookLM：给力的 AI 研究工具与思考伙伴，可以帮助您分析来源、理清复杂的资料及转换内容。",
               "icon": "/assets/favicon_1764162265139.svg",
               "enabled": true
+            },
+            {
+              "id": "1760513538759",
+              "title": "v0 by Vercel",
+              "href": "https://v0.app/",
+              "description": "AI 驱动的快速建站平台，支持用 AI 分钟级生成可运行应用，秒级发布为 live 网站。提供大量免费模板（含 SaaS 着陆页、仪表盘等），部分模板需 1 个信用点。可同步 GitHub、集成常用工具与 API，一键部署到 Vercel，支持可视化编辑微调，还能创建统一设计系统，适配 iOS 移动端创作，高效实现从想法到生产的落地。\n\n\n\n\n\n\n\n这个平台的AI生成应用的技术原理是什么？\n如何获取和使用信用点？\n有哪些常用工具和API可以集成？\n",
+              "icon": "/assets/favicon_1768618477617.png",
+              "enabled": true
             }
           ]
         },
@@ -242,16 +250,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760513538759",
-              "title": "v0 by Vercel",
-              "href": "https://v0.app/",
-              "description": "AI 驱动的快速建站平台，支持用 AI 分钟级生成可运行应用，秒级发布为 live 网站。提供大量免费模板（含 SaaS 着陆页、仪表盘等），部分模板需 1 个信用点。可同步 GitHub、集成常用工具与 API，一键部署到 Vercel，支持可视化编辑微调，还能创建统一设计系统，适配 iOS 移动端创作，高效实现从想法到生产的落地。\n\n\n\n\n\n\n\n这个平台的AI生成应用的技术原理是什么？\n如何获取和使用信用点？\n有哪些常用工具和API可以集成？\n",
-              "icon": "/assets/favicon_1768618477617.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "8f5e0374-2ee9-4012-acac-baecb515d826",
