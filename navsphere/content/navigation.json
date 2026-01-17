@@ -118,6 +118,14 @@
               "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
               "icon": "/assets/images/logos/leonardo.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1768629622393_1as9i6hw0",
+              "title": "豆包",
+              "href": "https://www.doubao.com/chat/",
+              "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
+              "icon": "/assets/favicon_1768629613427.png",
+              "enabled": true
             }
           ]
         },
