@@ -455,14 +455,6 @@
       "icon": "Palette",
       "items": [
         {
-          "id": "7_1",
-          "title": "Color Hunt",
-          "href": "https://colorhunt.co/",
-          "description": "色彩搭配",
-          "icon": "/assets/images/logos/colorhunt.webp",
-          "enabled": true
-        },
-        {
           "id": "1736921962115",
           "title": "draw.io",
           "href": "https://www.drawio.com/",
@@ -592,6 +584,14 @@
               "href": "https://unsplash.com/",
               "description": "免费高清图片",
               "icon": "/assets/images/logos/unsplash.webp",
+              "enabled": true
+            },
+            {
+              "id": "7_1",
+              "title": "Color Hunt",
+              "href": "https://colorhunt.co/",
+              "description": "色彩搭配",
+              "icon": "/assets/images/logos/colorhunt.webp",
               "enabled": true
             }
           ]
