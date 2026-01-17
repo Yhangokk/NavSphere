@@ -339,6 +339,14 @@
               "description": "Google Drive（谷歌云盘）是谷歌官方云存储平台，支持上传、存储、同步、共享文档、图片、视频等各类文件，适配多设备，可满足个人备份与团队协作需求，是实用的免费 / 付费云存储工具。",
               "icon": "/assets/favicon_1764304640963.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1768643971379_sc1c31m3h",
+              "title": "百度云盘",
+              "href": "https://pan.baidu.com/login?redirecturl=https%3A%2F%2Fpan.baidu.com%2Fdisk%2Fhome#from=share_pan_logo",
+              "description": "百度网盘登录",
+              "icon": "/assets/favicon_1768643943713.png",
+              "enabled": true
             }
           ]
         }
