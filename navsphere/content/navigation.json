@@ -723,16 +723,7 @@
       "icon": "Box",
       "description": "开发者工具，工具包",
       "enabled": true,
-      "items": [
-        {
-          "id": "1765279305478",
-          "title": "NewKit - 在线效率工具箱",
-          "href": "https://www.newkit.site/",
-          "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
-          "icon": "/assets/favicon_1765279307988.svg",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
@@ -796,6 +787,14 @@
               "href": "https://www.tinte.dev/",
               "description": "AI 主题生成与转换器，支持通过自然语言一键设计并导出适配 shadcn/ui、VS Code 及多种终端的配色方案，实现“定义一次，多端复用”的一致性视觉体验。关键词：AI 主题生成、配色工具、shadcn/ui、VS Code 皮肤、多端适配。",
               "icon": "/assets/favicon_1765594470605.webp",
+              "enabled": true
+            },
+            {
+              "id": "1765279305478",
+              "title": "NewKit - 在线效率工具箱",
+              "href": "https://www.newkit.site/",
+              "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
+              "icon": "/assets/favicon_1765279307988.svg",
               "enabled": true
             }
           ]
