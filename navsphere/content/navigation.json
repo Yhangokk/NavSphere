@@ -606,8 +606,8 @@
     },
     {
       "id": "8",
-      "title": "素材资源",
-      "icon": "linecons-thumbs-up",
+      "title": "设计工具箱",
+      "icon": "Palette",
       "items": [],
       "subCategories": [
         {
@@ -781,7 +781,9 @@
             }
           ]
         }
-      ]
+      ],
+      "description": "",
+      "enabled": true
     },
     {
       "id": "1735265493940",
