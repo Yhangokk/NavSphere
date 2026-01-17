@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art 是便捷的 AI 绘画平台，支持通过多种 AI 模型快速生成不同风格图像，可浏览、分享优质画作与创作模型，操作简单，是 AI 绘画爱好者实现创意、交流灵感的实用工具。",
-          "icon": "/assets/images/logos/tensorart.webp",
-          "enabled": true
-        },
-        {
           "id": "1735119857233",
           "title": "截图美化工具",
           "href": "https://shots.so/",
@@ -296,6 +288,14 @@
               "href": "https://aistudio.google.com/models/veo-3",
               "description": "The fastest path from prompt to production with Gemini",
               "icon": "/assets/favicon_1760605601454.webp",
+              "enabled": true
+            },
+            {
+              "id": "1_7",
+              "title": "Tensor.art",
+              "href": "https://tensor.art/",
+              "description": "Tensor.art 是便捷的 AI 绘画平台，支持通过多种 AI 模型快速生成不同风格图像，可浏览、分享优质画作与创作模型，操作简单，是 AI 绘画爱好者实现创意、交流灵感的实用工具。",
+              "icon": "/assets/images/logos/tensorart.webp",
               "enabled": true
             }
           ]
