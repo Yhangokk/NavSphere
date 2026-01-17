@@ -707,6 +707,14 @@
               "description": "PostSpark.app 是实用的截图美化编辑工具，支持 URL 转截图，提供 16 + 布局、浏览器框架、标注、特效等功能，可美化截图、推文、代码及模型图，支持导出，帮你快速制作精美截图，操作便捷高效。",
               "icon": "/assets/img_1741747241014.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1768633324642_iw88jhtoh",
+              "title": "Zcool 站酷",
+              "href": "https://www.zcool.com.cn/",
+              "description": "设计领域的综合平台，设有素材、设计服务、课程、活动、版权图库、共创等核心栏目，支持登录注册与首页内容偏好自定义，汇聚设计相关资源与服务，是设计师交流、获取素材及提升技能的专业平台。",
+              "icon": "/assets/favicon_1768633267028.png",
+              "enabled": true
             }
           ],
           "enabled": true
