@@ -738,7 +738,7 @@
               "id": "1763380040947",
               "title": "IndieHub ",
               "href": "https://indiehub.best/tool?category=ui-component",
-              "description": "IndieHub is a community for Indie Makers to discover tools, launch products, and ship applications faster and better.",
+              "description": "专门为独立创作者（Indie Makers）打造的 UI 组件库导航频道，收录了上百款高质量的 React、Vue 及 Tailwind CSS 开源组件与模板，旨在帮助开发者跳过繁琐的样式编写、快速交付产品界面。关键词：独立开发、UI 组件、前端资源、Tailwind CSS、开发工具",
               "icon": "/assets/favicon_1763380043621.webp",
               "enabled": true
             },
