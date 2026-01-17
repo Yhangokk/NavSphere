@@ -198,7 +198,7 @@
               "id": "1760605598288",
               "title": "veo-3",
               "href": "https://aistudio.google.com/models/veo-3",
-              "description": "The fastest path from prompt to production with Gemini",
+              "description": "Veo-3 是谷歌推出的 AI 模型，适配 AI Studio 的开发环境，可用于相关 AI 任务的开发、调试与部署，是开发者进行 AI 模型应用开发的实用工具。",
               "icon": "/assets/favicon_1760605601454.webp",
               "enabled": true
             },
