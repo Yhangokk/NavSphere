@@ -84,6 +84,14 @@
           "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
           "icon": "/assets/favicon_1768632878755.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1768632919658_zn61cocc0",
+          "title": "163网易免费邮-你的专业电子邮局",
+          "href": "https://mail.163.com/",
+          "description": "网易163免费邮箱，你的专业电子邮局，注册用户数超10亿，专业稳定安全。网易邮箱官方App“邮箱大师”帮您高效处理邮件，支持所有邮箱，并可在手机、Windows和Mac上多端协同使用。",
+          "icon": "/assets/favicon_1768632913221.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
