@@ -182,7 +182,7 @@
               "id": "1760435417839",
               "title": "Sora",
               "href": "https://sora.chatgpt.com/",
-              "description": "Transform text and images into immersive videos. Animate stories, visualize ideas, and bring your concepts to life.",
+              "description": "OpenAI 旗下 Sora 系列 AI 视频生成工具的官方平台，支持通过文本提示生成最高 1080p、60 秒的高质量短视频，也能扩展现有短内容，兼具物理一致性与时空连贯性",
               "icon": "/assets/favicon_1760435422176.webp",
               "enabled": true
             },
