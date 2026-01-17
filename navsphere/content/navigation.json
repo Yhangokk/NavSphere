@@ -812,6 +812,14 @@
               "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
               "icon": "/assets/favicon_1765279307988.svg",
               "enabled": true
+            },
+            {
+              "id": "1737529639971",
+              "title": "Cursor",
+              "href": "https://www.cursor.com/",
+              "description": "AI 辅助代码编辑器（IDE），基于 VS Code 分叉构建，深度集成了 Claude 和 GPT 等顶尖大模型。它通过“预测式编辑”、全局代码库索引以及对话式编程，彻底重塑了开发流，让开发者能以自然语言编写、重构和调试代码，是目前 AI 编程领域的代名词。关键词：AI 编程、代码编辑器、智能补全、自然语言开发、VS Code 增强版。",
+              "icon": "/assets/img_1737529713172.webp",
+              "enabled": true
             }
           ]
         },
@@ -855,14 +863,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1737529639971",
-              "title": "Cursor",
-              "href": "https://www.cursor.com/",
-              "description": "AI 辅助代码编辑器（IDE），基于 VS Code 分叉构建，深度集成了 Claude 和 GPT 等顶尖大模型。它通过“预测式编辑”、全局代码库索引以及对话式编程，彻底重塑了开发流，让开发者能以自然语言编写、重构和调试代码，是目前 AI 编程领域的代名词。关键词：AI 编程、代码编辑器、智能补全、自然语言开发、VS Code 增强版。",
-              "icon": "/assets/img_1737529713172.webp",
-              "enabled": true
-            },
             {
               "id": "1737530051856",
               "title": "Trae",
