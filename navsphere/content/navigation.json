@@ -298,6 +298,14 @@
               "description": "YouTube高清视频解析下载工具支持解析YouTube软件和油管网站上的任何视频,解析出来的视频无水印.是一个免费的在线YouTube下载器,可借助此下载器在电脑或手机上方便的下载保存YouTube平台的视频.",
               "icon": "/assets/favicon_1768641720677.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768641895187_08x2bj9cw",
+              "title": "无水印视频解析下载",
+              "href": "https://dy.kukutool.com/",
+              "description": "抖音、小红书等视频平台无水印视频解析下载",
+              "icon": "/assets/favicon_1768641839394.png",
+              "enabled": true
             }
           ]
         },
