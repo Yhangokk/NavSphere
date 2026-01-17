@@ -292,6 +292,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "6a5e66f7-1517-4f83-837c-fa61474897b1",
+          "title": "机场大全",
+          "icon": "Globe",
+          "description": "VPN梯子，上网自由",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
