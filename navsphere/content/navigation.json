@@ -299,6 +299,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "41c649af-f947-41de-9116-10ea9d63c35c",
+          "title": "视频解析下载",
+          "icon": "Code",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
