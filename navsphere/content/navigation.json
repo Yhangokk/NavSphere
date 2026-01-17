@@ -763,6 +763,14 @@
               "description": "海量设计模板加持不会PS也能轻松搞定设计，在线设计海报、简历、PPT、名片、宣传单、邀请函、Logo等多种设计需求场景，3秒抠图、批量套版、AI辅助设计实用便捷。海量正版授权资源，商用无忧。",
               "icon": "/assets/favicon_1768633365630.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768634413826_jco2d3xay",
+              "title": "追波 Dribbble",
+              "href": "https://dribbble.com/",
+              "description": "设计灵感与人才平台，汇聚众多优秀设计师，展示 Logo、UI/UX 设计、仪表盘、网站设计等多元作品",
+              "icon": "/assets/favicon_1768634317118.png",
+              "enabled": true
             }
           ],
           "enabled": true
