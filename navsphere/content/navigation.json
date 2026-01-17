@@ -997,6 +997,14 @@
           "description": "探索最全最新的emoji表情库，👆点击即可复制，支持中文和英文搜索🔍emoji。查找你喜欢的emoji表情符号，尽情享受表情的乐趣和创造力🎨。",
           "icon": "/assets/favicon_1768633338748.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1768642549195_6b688eclb",
+          "title": "抖音MCN 后台登录",
+          "href": "https://union.bytedance.com/open/",
+          "description": "抖音直播机构 MCN 后台登录",
+          "icon": "/assets/favicon_1768642353925.png",
+          "enabled": true
         }
       ],
       "subCategories": []
