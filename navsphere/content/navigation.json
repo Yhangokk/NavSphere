@@ -273,6 +273,14 @@
               "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
               "icon": "/assets/images/logos/framer.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1768633912554_ksig80b81",
+              "title": "音乐磁场 Hifini",
+              "href": "https://www.hifini.com/",
+              "description": "高品质音乐下载 音乐社区 音乐论坛",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.hifini.com",
+              "enabled": true
             }
           ],
           "enabled": true
