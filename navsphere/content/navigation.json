@@ -1039,14 +1039,6 @@
               "description": "专业创意软件",
               "icon": "/assets/images/logos/AffinityDesigner.webp",
               "enabled": true
-            },
-            {
-              "id": "4_3",
-              "title": "Illustrator",
-              "href": "https://www.adobe.com/cn/products/illustrator/",
-              "description": "矢量图形和插图。",
-              "icon": "/assets/images/logos/Illustrator.webp",
-              "enabled": true
             }
           ],
           "enabled": true
