@@ -17,7 +17,7 @@
           "id": "1_3",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com/",
-          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
+          "description": "Cloudflare官方管理控制台，简称CF云，提供CDN加速、DDoS防护、SSL证书、DNS配置等核心服务，支持一键优化网站访问速度、抵御网络攻击，还能管理域名解析、边缘计算等功能，是站长必备的免费/付费网站安全与性能管理工具。",
           "icon": "/assets/images/logos/cloudflar.webp",
           "enabled": true
         },
