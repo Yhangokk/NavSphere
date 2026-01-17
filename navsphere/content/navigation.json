@@ -76,6 +76,14 @@
           "description": "花瓣网最新采集栏目为推荐了最新采集相关的图片素材资源，其中涵盖众多设计师收藏采集的相关图片素材资源。花瓣网, 设计师寻找灵感的天堂！",
           "icon": "/assets/favicon_1768632855310.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768632899354_dyxj77s4c",
+          "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+          "href": "https://www.bilibili.com/",
+          "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
+          "icon": "/assets/favicon_1768632878755.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
