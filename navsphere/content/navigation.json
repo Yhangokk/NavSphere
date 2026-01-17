@@ -469,6 +469,14 @@
           "description": "PostSpark.app 是实用的截图美化编辑工具，支持 URL 转截图，提供 16 + 布局、浏览器框架、标注、特效等功能，可美化截图、推文、代码及模型图，支持导出，帮你快速制作精美截图，操作便捷高效。",
           "icon": "/assets/img_1741747241014.webp",
           "enabled": true
+        },
+        {
+          "id": "3_5",
+          "title": "TinyPNG",
+          "href": "https://tinypng.com/",
+          "description": "在线图片压缩工具",
+          "icon": "/assets/images/logos/tinypng.webp",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -1004,14 +1012,6 @@
               "href": "https://jsoneditoronline.org/",
               "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
               "icon": "/assets/images/logos/json.webp",
-              "enabled": true
-            },
-            {
-              "id": "3_5",
-              "title": "TinyPNG",
-              "href": "https://tinypng.com/",
-              "description": "在线图片压缩工具",
-              "icon": "/assets/images/logos/tinypng.webp",
               "enabled": true
             },
             {
