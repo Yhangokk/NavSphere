@@ -116,6 +116,14 @@
           "description": "综合性兴趣社交与内容分享平台，设有热门话题、辟谣专区、精选内容等板块，涵盖生活、职场、情感等多元讨论；拥有各类兴趣小组，方便用户互动交流；同时提供影视推荐（热门 / 热映影片）、书籍速递、音乐（豆瓣 FM）及原创数字作品等内容，兼具社交与内容发现属性，满足用户多元兴趣需求。",
           "icon": "/assets/favicon_1768633194040.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768633806706_1fhy5jiez",
+          "title": "YouTube",
+          "href": "https://www.youtube.com/",
+          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+          "icon": "/assets/favicon_1768633796315.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
