@@ -1236,6 +1236,15 @@
       ]
     },
     {
+      "id": "1768641563088",
+      "title": "电商资源类",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1768614964366",
       "title": "其他项",
       "icon": "Search",
@@ -1259,15 +1268,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1768641563088",
-      "title": "电商资源类",
-      "icon": "LayoutGrid",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
