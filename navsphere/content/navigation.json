@@ -1265,6 +1265,14 @@
           "description": "阿里巴巴 为数千万网商提供海量商机信息和便捷安全的在线交易市场，也是商人们以商会友、真实互动的社区平台。目前1688.com已覆盖原材料、工业品、服装服饰、家居百货、小商品等12个行业大类，提供从原料--生产--加工--现货等一系列的供应产品和服务",
           "icon": "/assets/favicon_1768641642930.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1768641704947_13k8plnhx",
+          "title": "代发单-礼品 空包代发",
+          "href": "https://www.daifadan.com/",
+          "description": "专业提供礼品代发,全国自建云仓库的代发平台,可绑定店铺实现拼多多、淘宝、京东、天猫、抖音（抖店）店铺订单一键同步自动下单购买、自动发货。代发网合作了主流快递公司,快递单号购买价格低、真实礼品发货、物流安全稳定、包裹派送签收,欢迎电商小礼品一件代发！",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.daifadan.com",
+          "enabled": true
         }
       ],
       "subCategories": []
