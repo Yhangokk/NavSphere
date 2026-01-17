@@ -246,6 +246,14 @@
               "description": "脚本分享平台，提供海量免费脚本，适配 Chrome、Edge 等多款浏览器。脚本功能覆盖视频解析下载（如 YouTube、B 站、网盘）、网页广告屏蔽、学习辅助（自动答题、刷课）、内容复制限制解除、网页功能增强（字体调整、自动翻页）等，支持用户自由选择安装，满足多元上网需求。",
               "icon": "/assets/favicon_1768641908288.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768645344795_28e8lxoy4",
+              "title": "开源项目导航站 Ossnav",
+              "href": "https://www.ossnav.com/",
+              "description": "开源项目收集导航站，各种小工具等",
+              "icon": "/assets/favicon_1768645294417.png",
+              "enabled": true
             }
           ],
           "enabled": true
