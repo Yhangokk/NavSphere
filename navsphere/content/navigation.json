@@ -355,6 +355,14 @@
               "description": "天翼云盘 网盘登录",
               "icon": "/assets/favicon_1768643985402.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768644048107_cry281prs",
+              "title": "阿里云盘",
+              "href": "https://www.aliyundrive.com/sign/in?ad__pass__q__desktopLogin=true&back=https%3A%2F%2Fwww.aliyundrive.com%2Fdrive%2F",
+              "description": "阿里云盘 阿里网盘",
+              "icon": "/assets/favicon_1768644031061.png",
+              "enabled": true
             }
           ]
         }
