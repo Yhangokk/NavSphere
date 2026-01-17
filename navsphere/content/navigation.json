@@ -52,6 +52,14 @@
           "description": "一个小红书",
           "icon": "/assets/favicon_1768632399534.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1768632477089_cdga3ps4m",
+          "title": "抖音",
+          "href": "https://www.douyin.com/",
+          "description": "",
+          "icon": "/assets/favicon_1768632464206.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
