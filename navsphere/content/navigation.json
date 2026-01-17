@@ -68,6 +68,14 @@
           "description": "蛙蛙工具是一个免费便捷在线工具网站，提供语言工具、文本工具、转换工具、编码解码、站长工具等便利的在线工具服务，是你生活和工作学习的好帮手。",
           "icon": "/assets/favicon_1768632822164.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768632863082_2kb4memqn",
+          "title": "花瓣",
+          "href": "https://huaban.com/discovery",
+          "description": "花瓣网最新采集栏目为推荐了最新采集相关的图片素材资源，其中涵盖众多设计师收藏采集的相关图片素材资源。花瓣网, 设计师寻找灵感的天堂！",
+          "icon": "/assets/favicon_1768632855310.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
