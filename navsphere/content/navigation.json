@@ -63,10 +63,10 @@
         },
         {
           "id": "1737529887245",
-          "title": "GitHub Copilot",
-          "href": "https://github.com/features/copilot",
+          "title": "GitHub",
+          "href": "https://github.com/",
           "description": "代码托管平台",
-          "icon": "/assets/favicon_1768629653643.png",
+          "icon": "/assets/favicon_1768785018209.png",
           "enabled": true
         },
         {
