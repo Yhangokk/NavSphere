@@ -1299,6 +1299,14 @@
               "description": "可以注册qzz、dpdns免费的域名",
               "icon": "/assets/favicon_1768644267755.jpg",
               "enabled": true
+            },
+            {
+              "id": "item-1768986155110",
+              "enabled": true,
+              "title": "域名注册 | 免费域名可用性工具 - Spaceship",
+              "href": "https://www.spaceship.com/zh/domain-search/?query=&beast=false&tab=domains",
+              "description": "使用我们的域名检查器为您的在线项目找到可用的网站名称，并发现每次注册附带的产品和服务。",
+              "icon": "/assets/favicon_1768986121525.svg"
             }
           ]
         },
