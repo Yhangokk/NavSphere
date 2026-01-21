@@ -254,6 +254,14 @@
               "description": "开源项目收集导航站，各种小工具等",
               "icon": "/assets/favicon_1768645294417.png",
               "enabled": true
+            },
+            {
+              "id": "item-1768979333719",
+              "enabled": true,
+              "title": "导航页 扩展插件",
+              "href": "chrome-extension://kjabmfljebjaglniegpjfldgolffcoea/src/options/index.html",
+              "description": "本导航站的浏览器扩展插件 可快速添加网站NavSphere",
+              "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iIzY2NjY2NiIvPgo8cGF0aCBkPSJNOCA0QzYuMzQzMTUgNCA1IDUuMzQzMTUgNSA3QzUgOC42NTY4NSA2LjM0MzE1IDEwIDggMTBDOS42NTY4NSAxMCAxMSA4LjY1Njg1IDExIDdDMTEgNS4zNDMxNSA5LjY1Njg1IDQgOCA0WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTggMTJDNi4zNDMxNSAxMiA1IDEzLjM0MzEgNSAxNUg5SDExQzExIDEzLjM0MzEgOS42NTY4NSAxMiA4IDEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+"
             }
           ],
           "enabled": true
