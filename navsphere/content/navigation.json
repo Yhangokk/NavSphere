@@ -1033,6 +1033,14 @@
               "description": "高清无版权图片，个人和商业用途免费",
               "icon": "/assets/favicon_1768643525601.png",
               "enabled": true
+            },
+            {
+              "id": "item-1768981717189",
+              "enabled": true,
+              "title": "流体动画网页 WebGL Fluid Simulation",
+              "href": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+              "description": "一个显示流体动画的网页",
+              "icon": "https://paveldogreat.github.io/logo.png"
             }
           ]
         }
