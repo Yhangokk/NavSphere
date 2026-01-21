@@ -1178,14 +1178,6 @@
               "enabled": true
             },
             {
-              "id": "site_1768643282331_anceuvjdc",
-              "title": "流体动画网页 WebGL Fluid Simulation",
-              "href": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
-              "description": "网页可以显示流体动画",
-              "icon": "https://paveldogreat.github.io/logo.png",
-              "enabled": true
-            },
-            {
               "id": "site_1768644351259_s4trppdhi",
               "title": "网站图标 Favicon 获取 - ToolB",
               "href": "https://toolb.cn/favicon",
