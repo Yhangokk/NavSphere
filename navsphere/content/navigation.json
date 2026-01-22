@@ -347,6 +347,14 @@
               "href": "https://www.dayanzai.me/",
               "description": "大眼仔旭网站是个人非盈利性网站，主要以分享日常工作生活办公技术资源为主，大眼仔热衷于分享互联网上一切所有美好事物，希望和您一起成长。",
               "icon": "/assets/favicon_1769067432506.ico"
+            },
+            {
+              "id": "item-1769067510607",
+              "enabled": true,
+              "title": "鸭先知 - 专注分享优质软件",
+              "href": "https://www.yxzhi.com/",
+              "description": "鸭先知（www.yxzhi.com）创办于2022年，是原资源否网站，专注于分享优质软件、技术、教程、脚本、插件等资源的综合性网站。找软件，找资源，学技术，提效率，尽在鸭先知！",
+              "icon": "/assets/favicon_1769067489953.png"
             }
           ]
         },
