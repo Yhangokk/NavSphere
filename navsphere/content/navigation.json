@@ -339,7 +339,16 @@
           "icon": "FileText",
           "description": "各种软件安装包资源网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1769067440407",
+              "enabled": true,
+              "title": "大眼仔旭 - 专注开源软件、视频剪辑、免费商用字体、屏幕录像工具、思维导图等办公资源分享",
+              "href": "https://www.dayanzai.me/",
+              "description": "大眼仔旭网站是个人非盈利性网站，主要以分享日常工作生活办公技术资源为主，大眼仔热衷于分享互联网上一切所有美好事物，希望和您一起成长。",
+              "icon": "/assets/favicon_1769067432506.ico"
+            }
+          ]
         },
         {
           "id": "b0f5f463-f717-478b-baa7-1a6e46f2dcb1",
