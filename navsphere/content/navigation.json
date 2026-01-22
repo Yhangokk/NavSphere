@@ -335,9 +335,9 @@
         },
         {
           "id": "672c11b2-214c-4294-b47c-c172adfba451",
-          "title": "知识库资料",
+          "title": "软件安装包大全",
           "icon": "FileText",
-          "description": "",
+          "description": "各种软件安装包资源网站",
           "enabled": true,
           "items": []
         },
