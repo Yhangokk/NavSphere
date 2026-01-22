@@ -1500,7 +1500,7 @@
           "title": "微信文件传输助手",
           "href": "https://filehelper.weixin.qq.com/",
           "description": "微信官方网页版文件传输助手，方便电脑和手机间互传文件。",
-          "icon": "img/5281e972ec463897022f56464011b5ed.webp",
+          "icon": "/assets/favicon_1769071995784.ico",
           "enabled": true
         },
         {
