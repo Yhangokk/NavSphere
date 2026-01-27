@@ -5854,6 +5854,14 @@
           "description": "一个有魔法的梯子",
           "icon": "https://web.fscloud.app/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "item-1769480368519",
+          "enabled": true,
+          "title": "网站图标提取器",
+          "href": "https://www.faviconextractor.com/",
+          "description": "可以获取网站的图标logo",
+          "icon": "/assets/favicon_1769480325436.svg"
         }
       ],
       "subCategories": []
