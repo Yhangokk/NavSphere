@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Circular blue background -->
+  <circle cx="16" cy="16" r="16" fill="#3b82f6"/>
+
+  <!-- Just the letter F -->
+  <text x="16" y="23"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="900"
+        fill="white"
+        text-anchor="middle">F</text>
+</svg>
