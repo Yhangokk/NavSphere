@@ -124,6 +124,14 @@
           "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
           "icon": "/assets/favicon_1768633796315.png",
           "enabled": true
+        },
+        {
+          "id": "item-1769595136350",
+          "enabled": true,
+          "title": "Notion 主页",
+          "href": "https://www.notion.so/0c809ffe66aa4a97b079db41b879f561?pvs=16",
+          "description": "notion 笔记",
+          "icon": "/assets/favicon_1769595106408.ico"
         }
       ],
       "subCategories": [],
