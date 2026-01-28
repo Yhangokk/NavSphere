@@ -1169,6 +1169,14 @@
           "description": "各种冷知识文章",
           "icon": "/assets/favicon_1768643585406.png",
           "enabled": true
+        },
+        {
+          "id": "item-1769580037858",
+          "enabled": true,
+          "title": "酒馆",
+          "href": "https://sillytavernchat.com/character-cards",
+          "description": "AI角色扮演游戏",
+          "icon": "/assets/favicon_1769580009620.ico"
         }
       ],
       "subCategories": []
