@@ -406,6 +406,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "dd80ae35-f346-40b2-b53f-4895edfb4981",
+          "title": "梯子节点服务",
+          "icon": "Globe",
+          "description": "VPN梯子，上网自由",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
