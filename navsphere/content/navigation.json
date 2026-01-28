@@ -1738,10 +1738,10 @@
         },
         {
           "id": "site_1768902419320_uerdk",
-          "title": "Google Fonts",
+          "title": "谷歌免费字体 Google Fonts",
           "href": "https://fonts.google.com/",
           "description": "一个包含大量开源字体的库，可免费用于个人和商业项目。",
-          "icon": "https://toolb.cn/favicon/fonts.google.com",
+          "icon": "/assets/favicon_1769572108779.svg",
           "enabled": true
         },
         {
