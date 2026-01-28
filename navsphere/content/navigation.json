@@ -429,6 +429,14 @@
               "href": "https://wmsxwd.com/auth/login",
               "description": "Updates and statistics",
               "icon": "/assets/favicon_1769572597180.ico"
+            },
+            {
+              "id": "item-1769572672419",
+              "enabled": true,
+              "title": "🚀 可莉的公益站订阅链接加速",
+              "href": "https://keli.blog/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=keli.blog"
             }
           ]
         }
