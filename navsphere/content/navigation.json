@@ -1522,10 +1522,10 @@
         },
         {
           "id": "site_1768902419320_gluxm",
-          "title": "轻松传",
+          "title": "传文件，传文本，传屏幕，传实时视频 - 轻松传",
           "href": "https://easychuan.cn/",
-          "description": "局域网文件传输工具，支持一对多传输。",
-          "icon": "https://toolb.cn/favicon/easychuan.cn",
+          "description": "手机、电脑、平板... 跨设备快速传文件、传文本、传屏幕、传实时视频，64T超大文件传输，无限速无扫描。",
+          "icon": "/assets/favicon_1769571889994.png",
           "enabled": true
         },
         {
