@@ -421,6 +421,14 @@
               "description": "一个有魔法的梯子",
               "icon": "https://toolb.cn/favicon/web.fscloud.app",
               "enabled": true
+            },
+            {
+              "id": "item-1769572618306",
+              "enabled": true,
+              "title": "我们所向往的 梯子 VPN",
+              "href": "https://wmsxwd.com/auth/login",
+              "description": "Updates and statistics",
+              "icon": "/assets/favicon_1769572597180.ico"
             }
           ]
         }
