@@ -1185,6 +1185,14 @@
           "href": "https://sillytavernchat.com/character-cards",
           "description": "AI角色扮演游戏",
           "icon": "/assets/favicon_1769580009620.ico"
+        },
+        {
+          "id": "item-1769580144383",
+          "enabled": true,
+          "title": "英文键盘练习",
+          "href": "https://qwerty.kaiyi.cool/",
+          "description": "专为键盘工作者设计的免费英语学习软件，结合打字练习与单词记忆，支持音标发音、默写模式、多样词库，高效提升英语水平和打字技能。",
+          "icon": "/assets/favicon_1769580111033.ico"
         }
       ],
       "subCategories": []
