@@ -1666,10 +1666,10 @@
         },
         {
           "id": "site_1768902419320_fyny1",
-          "title": "tinypng",
+          "title": "图片压缩 TinyPNG",
           "href": "https://tinypng.com/",
-          "description": "智能的PNG和JPEG图片在线压缩工具。",
-          "icon": "https://toolb.cn/favicon/tinypng.com",
+          "description": "可以无损压缩图片",
+          "icon": "/assets/favicon_1769572024936.ico",
           "enabled": true
         },
         {
