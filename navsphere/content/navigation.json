@@ -1201,6 +1201,14 @@
           "href": "https://qwerty.kaiyi.cool/",
           "description": "专为键盘工作者设计的免费英语学习软件，结合打字练习与单词记忆，支持音标发音、默写模式、多样词库，高效提升英语水平和打字技能。",
           "icon": "/assets/favicon_1769580111033.ico"
+        },
+        {
+          "id": "item-1769588815440",
+          "enabled": true,
+          "title": "风车漫画 漫画网站",
+          "href": "https://www.fengchemh.com/comic/rP0vqNDgAR",
+          "description": "有这各种漫画",
+          "icon": "/assets/favicon_1769588781182.png"
         }
       ],
       "subCategories": []
