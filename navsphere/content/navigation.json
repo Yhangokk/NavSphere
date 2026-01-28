@@ -413,7 +413,16 @@
           "icon": "Globe",
           "description": "VPN梯子，上网自由",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1768644470819_owjzs1lvs",
+              "title": "FSCloud 魔法梯子",
+              "href": "https://web.fscloud.app/#/register?code=cx5Mp7He",
+              "description": "一个有魔法的梯子",
+              "icon": "https://toolb.cn/favicon/web.fscloud.app",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
@@ -5862,14 +5871,6 @@
           "href": "https://contentcore.xyz/",
           "description": "含有多款产品运镜",
           "icon": "https://toolb.cn/favicon/contentcore.xyz",
-          "enabled": true
-        },
-        {
-          "id": "site_1768644470819_owjzs1lvs",
-          "title": "FSCloud 魔法梯子",
-          "href": "https://web.fscloud.app/#/register?code=cx5Mp7He",
-          "description": "一个有魔法的梯子",
-          "icon": "https://toolb.cn/favicon/web.fscloud.app",
           "enabled": true
         },
         {
