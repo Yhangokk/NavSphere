@@ -445,6 +445,14 @@
               "href": "https://keli.blog/",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=keli.blog"
+            },
+            {
+              "id": "item-1769580472631",
+              "enabled": true,
+              "title": "一分机场",
+              "href": "https://xn--4gqx1hgtfdmt.com/#/register?code=uE9Tb8YZ",
+              "description": "可以按量购买的机场VPN节点",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=xn--4gqx1hgtfdmt.com"
             }
           ]
         }
