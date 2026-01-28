@@ -1548,8 +1548,8 @@
           "id": "site_1768902419320_tssdx",
           "title": "钛盘",
           "href": "https://www.tmp.link/",
-          "description": "最大10G，需登录",
-          "icon": "https://toolb.cn/favicon/www.tmp.link",
+          "description": "最大 10G 文件传输",
+          "icon": "/assets/favicon_1769571941300.ico",
           "enabled": true
         },
         {
