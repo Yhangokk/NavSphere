@@ -469,6 +469,14 @@
               "href": "https://xn--4gqx1hgtfdmt.com/#/register?code=uE9Tb8YZ",
               "description": "可以按量购买的机场VPN节点",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=xn--4gqx1hgtfdmt.com"
+            },
+            {
+              "id": "item-1769668983593",
+              "enabled": true,
+              "title": "机场列表 | Karing",
+              "href": "https://karing.app/blog/isp/cn/#list",
+              "description": "机场节点大全",
+              "icon": "/assets/favicon_1769668956502.ico"
             }
           ]
         }
