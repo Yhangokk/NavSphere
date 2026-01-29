@@ -278,6 +278,14 @@
               "href": "https://www.usaddrgen.com/",
               "description": "随机生成美国地址和个人身份信息",
               "icon": "/assets/favicon_1769580071665.png"
+            },
+            {
+              "id": "item-1769668930985",
+              "enabled": true,
+              "title": "HTML 工具集",
+              "href": "https://tools.karing.app/",
+              "description": "汇集各种轻量级的在线工具",
+              "icon": "/assets/favicon_1769668915205.ico"
             }
           ],
           "enabled": true
