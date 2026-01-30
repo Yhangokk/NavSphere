@@ -5985,6 +5985,14 @@
           "href": "https://www.faviconextractor.com/",
           "description": "可以获取网站的图标logo",
           "icon": "https://toolb.cn/favicon/www.faviconextractor.com"
+        },
+        {
+          "id": "item-1769768992630",
+          "enabled": true,
+          "title": "字体有线",
+          "href": "https://font.doany.cn/",
+          "description": "专注于提供免费可商用字体下载的免费字体大全网站。立即获取下载免费字体、无版权字体、可商用字体，用于设计、海报、字幕等文字艺术创作。",
+          "icon": "/assets/favicon_1769768963619.ico"
         }
       ],
       "subCategories": []
