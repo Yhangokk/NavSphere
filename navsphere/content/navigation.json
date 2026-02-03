@@ -568,6 +568,14 @@
               "href": "https://moonvy.com/apps/ops/",
               "description": "ai可视化提词器",
               "icon": "/assets/favicon_1769594622837.png"
+            },
+            {
+              "id": "item-1770102871208",
+              "enabled": true,
+              "title": "模型库首页 · 魔搭社区",
+              "href": "https://www.modelscope.cn/models",
+              "description": "汇聚热门行业和技术资讯，包括技术趋势、应用场景、模型推荐、实践案例等",
+              "icon": "/assets/favicon_1770102859269.ico"
             }
           ]
         },
