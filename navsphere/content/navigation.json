@@ -1539,6 +1539,14 @@
               "description": "看财报为价值投资者提供上市公司财务数据,各项基本面分析指标,同时提供DCF折现工具、杜邦分析表、历史PE（市盈率）和PB（市净率）数据、还有多家公司对比和企业估值功能",
               "icon": "/assets/favicon_1760669311999.webp",
               "enabled": true
+            },
+            {
+              "id": "item-1770088862012",
+              "enabled": true,
+              "title": "ATRx - ETF 波动率对比",
+              "href": "https://y.p1gd0g.cc/",
+              "description": "ETF波动率",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=y.p1gd0g.cc"
             }
           ]
         },
