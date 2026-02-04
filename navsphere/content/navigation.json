@@ -354,6 +354,14 @@
               "description": "抖音、小红书等视频平台无水印视频解析下载",
               "icon": "/assets/favicon_1768641839394.png",
               "enabled": true
+            },
+            {
+              "id": "item-1770190654440",
+              "enabled": true,
+              "title": "Sora 视频下载链接提取器",
+              "href": "https://sorai.me/",
+              "description": "视频无水印解析下载",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=sorai.me"
             }
           ]
         },
