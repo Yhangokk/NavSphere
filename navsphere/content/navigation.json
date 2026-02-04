@@ -132,6 +132,14 @@
           "href": "https://www.notion.so/0c809ffe66aa4a97b079db41b879f561?pvs=16",
           "description": "notion 笔记",
           "icon": "/assets/favicon_1769595106408.ico"
+        },
+        {
+          "id": "item-1770193268878",
+          "enabled": true,
+          "title": "LINUX DO - 新的理想型社区",
+          "href": "https://linux.do/",
+          "description": "访问 linux.do",
+          "icon": "/assets/favicon_1770193256644.png"
         }
       ],
       "subCategories": [],
