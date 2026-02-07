@@ -600,6 +600,14 @@
               "href": "https://www.anyposes.com/",
               "description": "设置人偶姿势动作，可以让ai替换人物",
               "icon": "/assets/favicon_1770427847766.png"
+            },
+            {
+              "id": "item-1770448846591",
+              "enabled": true,
+              "title": "AI 资源 ComfyUI 工作流 - 飞书云文档",
+              "href": "https://waytoagi.feishu.cn/wiki/AxZPwElC6iZ0aqk2hjOcI3Y9nFg",
+              "description": "很多AI资源教程文档",
+              "icon": "/assets/favicon_1770448826468.png"
             }
           ]
         },
