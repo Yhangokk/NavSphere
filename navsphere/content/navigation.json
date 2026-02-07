@@ -592,6 +592,14 @@
               "href": "https://www.modelscope.cn/models",
               "description": "汇聚热门行业和技术资讯，包括技术趋势、应用场景、模型推荐、实践案例等",
               "icon": "/assets/favicon_1770102859269.ico"
+            },
+            {
+              "id": "item-1770427886460",
+              "enabled": true,
+              "title": "魔法人偶-免费的交互式绘画3D人体模型",
+              "href": "https://www.anyposes.com/",
+              "description": "设置人偶姿势动作，可以让ai替换人物",
+              "icon": "/assets/favicon_1770427847766.png"
             }
           ]
         },
