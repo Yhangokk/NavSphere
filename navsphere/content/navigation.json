@@ -246,6 +246,14 @@
           "description": "在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
           "icon": "/assets/img_1736922262462.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1768642234722_2kvd1u2eq",
+          "title": "油猴脚本",
+          "href": "https://greasyfork.org/zh-CN/scripts",
+          "description": "脚本分享平台，提供海量免费脚本，适配 Chrome、Edge 等多款浏览器。脚本功能覆盖视频解析下载（如 YouTube、B 站、网盘）、网页广告屏蔽、学习辅助（自动答题、刷课）、内容复制限制解除、网页功能增强（字体调整、自动翻页）等，支持用户自由选择安装，满足多元上网需求。",
+          "icon": "/assets/favicon_1768641908288.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -256,14 +264,6 @@
           "icon": "Folder",
           "description": "",
           "items": [
-            {
-              "id": "site_1768642234722_2kvd1u2eq",
-              "title": "油猴脚本",
-              "href": "https://greasyfork.org/zh-CN/scripts",
-              "description": "脚本分享平台，提供海量免费脚本，适配 Chrome、Edge 等多款浏览器。脚本功能覆盖视频解析下载（如 YouTube、B 站、网盘）、网页广告屏蔽、学习辅助（自动答题、刷课）、内容复制限制解除、网页功能增强（字体调整、自动翻页）等，支持用户自由选择安装，满足多元上网需求。",
-              "icon": "/assets/favicon_1768641908288.png",
-              "enabled": true
-            },
             {
               "id": "site_1768645344795_28e8lxoy4",
               "title": "开源项目导航站 Ossnav",
