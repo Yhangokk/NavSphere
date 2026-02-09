@@ -152,14 +152,6 @@
       "icon": "Box",
       "items": [
         {
-          "id": "site_1768633019898_07ofalgpi",
-          "title": "即时工具-致力打造即用即走型在线工具箱",
-          "href": "https://www.67tool.com/",
-          "description": "致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！",
-          "icon": "/assets/favicon_1768633007455.png",
-          "enabled": true
-        },
-        {
           "id": "site_1768633050202_u0xd3zxir",
           "title": "石墨文档",
           "href": "https://shimo.im/loginByPassword?redirect_url=https%3A%2F%2Fshimo.im%2Fdesktop",
@@ -286,6 +278,14 @@
               "href": "https://screenshots.pro/",
               "description": "将普通的原始应用截图一键转化为具有专业感、3D 边框感以及配有多语言说明的 App Store 和 Google Play 展示图。",
               "icon": "/assets/img_1735258064656.webp",
+              "enabled": true
+            },
+            {
+              "id": "site_1768633019898_07ofalgpi",
+              "title": "即时工具-致力打造即用即走型在线工具箱",
+              "href": "https://www.67tool.com/",
+              "description": "致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！",
+              "icon": "/assets/favicon_1768633007455.png",
               "enabled": true
             }
           ],
