@@ -152,14 +152,6 @@
       "icon": "Box",
       "items": [
         {
-          "id": "site_1768633105338_vjm9pmkz5",
-          "title": "语雀 文档",
-          "href": "https://www.yuque.com/dashboard",
-          "description": "阿里人都在用的笔记与文档知识库，面向企业、组织或个人，提供全新的体系化知识管理，打造轻松流畅的工作协同。金融级数据安全、丰富的应用场景、强大的知识创作与管理，助力企业、个人轻松拥有云端知识库",
-          "icon": "/assets/favicon_1768633089415.png",
-          "enabled": true
-        },
-        {
           "id": "site_1768633145578_ahnn6pth2",
           "title": "有道云笔记｜亿万用户的选择",
           "href": "https://note.youdao.com/",
@@ -286,6 +278,14 @@
               "href": "https://accounts.feishu.cn/accounts/page/login?app_id=2&no_trap=1&query_scope=all&redirect_uri=https%3A%2F%2Fdnr1uu4k0h.feishu.cn%2Fdrive%2Fme%2F%3Flogin_redirect_times%3D1",
               "description": "字节的在线文档，好用",
               "icon": "/assets/img_1768645588255.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1768633105338_vjm9pmkz5",
+              "title": "语雀 文档",
+              "href": "https://www.yuque.com/dashboard",
+              "description": "阿里人都在用的笔记与文档知识库，面向企业、组织或个人，提供全新的体系化知识管理，打造轻松流畅的工作协同。金融级数据安全、丰富的应用场景、强大的知识创作与管理，助力企业、个人轻松拥有云端知识库",
+              "icon": "/assets/favicon_1768633089415.png",
               "enabled": true
             }
           ],
