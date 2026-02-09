@@ -152,14 +152,6 @@
       "icon": "Box",
       "items": [
         {
-          "id": "1736922183993",
-          "title": "ProccessOn",
-          "href": "https://www.processon.com/",
-          "description": "在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
-          "icon": "/assets/img_1736922262462.webp",
-          "enabled": true
-        },
-        {
           "id": "site_1768642234722_2kvd1u2eq",
           "title": "油猴脚本",
           "href": "https://greasyfork.org/zh-CN/scripts",
@@ -286,6 +278,14 @@
               "href": "https://pagespeed.web.dev/",
               "description": "Pagespeed.web.dev 是谷歌推出的网页性能检测工具，可分析网页加载速度、性能表现，提供具体优化建议",
               "icon": "/assets/favicon_1765687105275.webp",
+              "enabled": true
+            },
+            {
+              "id": "1736922183993",
+              "title": "ProccessOn",
+              "href": "https://www.processon.com/",
+              "description": "在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
+              "icon": "/assets/img_1736922262462.webp",
               "enabled": true
             }
           ],
