@@ -152,14 +152,6 @@
       "icon": "Box",
       "items": [
         {
-          "id": "site_1768633075074_k4dubon3t",
-          "title": "飞书文档",
-          "href": "https://accounts.feishu.cn/accounts/page/login?app_id=2&no_trap=1&query_scope=all&redirect_uri=https%3A%2F%2Fdnr1uu4k0h.feishu.cn%2Fdrive%2Fme%2F%3Flogin_redirect_times%3D1",
-          "description": "字节的在线文档，好用",
-          "icon": "/assets/img_1768645588255.png",
-          "enabled": true
-        },
-        {
           "id": "site_1768633105338_vjm9pmkz5",
           "title": "语雀 文档",
           "href": "https://www.yuque.com/dashboard",
@@ -286,6 +278,14 @@
               "href": "https://shimo.im/loginByPassword?redirect_url=https%3A%2F%2Fshimo.im%2Fdesktop",
               "description": "在线协同办公文档",
               "icon": "/assets/favicon_1768633038558.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1768633075074_k4dubon3t",
+              "title": "飞书文档",
+              "href": "https://accounts.feishu.cn/accounts/page/login?app_id=2&no_trap=1&query_scope=all&redirect_uri=https%3A%2F%2Fdnr1uu4k0h.feishu.cn%2Fdrive%2Fme%2F%3Flogin_redirect_times%3D1",
+              "description": "字节的在线文档，好用",
+              "icon": "/assets/img_1768645588255.png",
               "enabled": true
             }
           ],
