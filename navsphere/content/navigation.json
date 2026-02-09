@@ -152,14 +152,6 @@
       "icon": "Box",
       "items": [
         {
-          "id": "site_1768633050202_u0xd3zxir",
-          "title": "石墨文档",
-          "href": "https://shimo.im/loginByPassword?redirect_url=https%3A%2F%2Fshimo.im%2Fdesktop",
-          "description": "在线协同办公文档",
-          "icon": "/assets/favicon_1768633038558.png",
-          "enabled": true
-        },
-        {
           "id": "site_1768633075074_k4dubon3t",
           "title": "飞书文档",
           "href": "https://accounts.feishu.cn/accounts/page/login?app_id=2&no_trap=1&query_scope=all&redirect_uri=https%3A%2F%2Fdnr1uu4k0h.feishu.cn%2Fdrive%2Fme%2F%3Flogin_redirect_times%3D1",
@@ -286,6 +278,14 @@
               "href": "https://www.67tool.com/",
               "description": "致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！",
               "icon": "/assets/favicon_1768633007455.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1768633050202_u0xd3zxir",
+              "title": "石墨文档",
+              "href": "https://shimo.im/loginByPassword?redirect_url=https%3A%2F%2Fshimo.im%2Fdesktop",
+              "description": "在线协同办公文档",
+              "icon": "/assets/favicon_1768633038558.png",
               "enabled": true
             }
           ],
