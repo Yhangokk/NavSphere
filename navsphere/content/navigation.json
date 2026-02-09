@@ -152,14 +152,6 @@
       "icon": "Box",
       "items": [
         {
-          "id": "item-1765687115114",
-          "title": "PageSpeed Insights",
-          "href": "https://pagespeed.web.dev/",
-          "description": "Pagespeed.web.dev 是谷歌推出的网页性能检测工具，可分析网页加载速度、性能表现，提供具体优化建议",
-          "icon": "/assets/favicon_1765687105275.webp",
-          "enabled": true
-        },
-        {
           "id": "1736922183993",
           "title": "ProccessOn",
           "href": "https://www.processon.com/",
@@ -286,6 +278,14 @@
               "href": "https://snapdrop.net/#",
               "description": "与附近的人分享图片、视频、PDF 和链接。点对点传输，开源。无需设置，无需注册。",
               "icon": "/assets/favicon_1768633671033.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1765687115114",
+              "title": "PageSpeed Insights",
+              "href": "https://pagespeed.web.dev/",
+              "description": "Pagespeed.web.dev 是谷歌推出的网页性能检测工具，可分析网页加载速度、性能表现，提供具体优化建议",
+              "icon": "/assets/favicon_1765687105275.webp",
               "enabled": true
             }
           ],
