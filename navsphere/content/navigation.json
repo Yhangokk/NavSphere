@@ -762,16 +762,7 @@
       "icon": "Video",
       "description": "自媒体工具包",
       "enabled": true,
-      "items": [
-        {
-          "id": "item-1769562992100",
-          "enabled": true,
-          "title": "NotionNext博客 搭建教程",
-          "href": "https://docs.tangly1024.com/article/how-to-config-notion-next",
-          "description": "利用NotionNext搭建个人博客，站点配置等教程",
-          "icon": "/assets/favicon_1769562938407.ico"
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
@@ -802,6 +793,14 @@
               "href": "https://creator.xiaohongshu.com/",
               "description": "小红书创作中心",
               "icon": "/assets/img_1736912766835.webp",
+              "enabled": true
+            },
+            {
+              "id": "item-1769562992100",
+              "title": "NotionNext博客 搭建教程",
+              "href": "https://docs.tangly1024.com/article/how-to-config-notion-next",
+              "description": "利用NotionNext搭建个人博客，站点配置等教程",
+              "icon": "/assets/favicon_1769562938407.ico",
               "enabled": true
             }
           ]
