@@ -362,6 +362,14 @@
               "href": "https://sorai.me/",
               "description": "视频无水印解析下载",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=sorai.me"
+            },
+            {
+              "id": "site_1773041199999_rhh7tfgxf",
+              "title": "视频解析下载",
+              "href": "https://www.hellotik.app/zh",
+              "description": "视频解析下载",
+              "icon": "/assets/favicon_1773041180191.png",
+              "enabled": true
             }
           ]
         },
