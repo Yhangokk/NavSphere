@@ -496,7 +496,16 @@
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1773039383358_4v9kzhakq",
+          "title": "魔搭 语音合成",
+          "href": "https://www.modelscope.cn/studios/FunAudioLLM/Fun-CosyVoice3-0.5B/",
+          "description": "阿里的语音合成模型",
+          "icon": "/assets/favicon_1773039352746.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
