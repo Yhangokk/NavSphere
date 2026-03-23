@@ -286,6 +286,14 @@
               "description": "开源项目收集导航站，各种小工具等",
               "icon": "/assets/favicon_1768645294417.png",
               "enabled": true
+            },
+            {
+              "id": "site_1774245243748_jy51txs0s",
+              "title": "PKMer_Obsidian 插件集市",
+              "href": "https://pkmer.cn/products/plugin/pluginMarket/",
+              "description": "Obsidian 插件市场，为解决国内访问官方市场困难而建立，提供插件、主题、介绍以及相关衍生用法等，旨在服务大家能够更好的使用。",
+              "icon": "/assets/favicon_1774245212361.ico",
+              "enabled": true
             }
           ],
           "enabled": true
