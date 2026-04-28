@@ -140,6 +140,14 @@
           "href": "https://linux.do/",
           "description": "访问 linux.do",
           "icon": "/assets/favicon_1770193256644.png"
+        },
+        {
+          "id": "site_1777339994124_g7c9vondc",
+          "title": "在线微信对话生成器",
+          "href": "https://wechat.sxcto.com/",
+          "description": "在线微信对话生成器,微信聊天生成,聊天对话生成,朋友圈转发截图生成工具",
+          "icon": "/assets/favicon_1777339958601.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
